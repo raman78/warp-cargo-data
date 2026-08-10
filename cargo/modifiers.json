@@ -1,0 +1,2672 @@
+[
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[AP]",
+  "stats": "+__% Antiproton Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Energetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[AuxPwr]",
+  "stats": "+__ Auxiliary Power Setting",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Beams]",
+  "stats": "+__% Beam Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Cannons]",
+  "stats": "+__% Cannon Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Chroniton]",
+  "stats": "+__% Chroniton Projectile Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Kinetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[CtrlX]",
+  "stats": "+__ Starship Control Expertise",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer,Console - Science - Restorative Particle Focuser,Console - Science - Exotic Particle Focuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Directed Energy]",
+  "stats": "+__% Energy Weapon Damage",
+  "type": "Ship Tactical Console",
+  "available": "Console - Tactical - Kinetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Dis]",
+  "stats": "+__ Disruptor Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Disruptor]",
+  "stats": "+__% Disruptor Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Energetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[DrainX]",
+  "stats": "+__ Starship Drain Expertise",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer,Console - Science - Restorative Particle Focuser,Console - Science - Exotic Particle Focuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[EPG]",
+  "stats": "+__ Starship Exotic Particle Generator",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer,Console - Science - Restorative Particle Focuser,Console - Science - Exotic Particle Focuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[EPS]",
+  "stats": "+__% Power Transfer Rate",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener,Console - Engineering - Enhanced Monotanium Alloy,Console - Engineering - Enhanced Neutronium Alloy",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[EngPwr]",
+  "stats": "+__ Engine Power Setting",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[HP]",
+  "stats": "+__ Starship Hull Capacity",
+  "type": "Ship Engineering Console",
+  "available": "Console - Engineering - Enhanced Monotanium Alloy,Console - Engineering - Enhanced Neutronium Alloy,Console - Engineering - Enhanced RCS Accelerator",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[HullReg]",
+  "stats": "In Combat: +__% Hull Regeneration per minute<br>Out of Combat: +__% Hull Regeneration per minute",
+  "type": "Ship Science Console",
+  "available": "Console - Science - Shield Refrequencer",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[HullRepair]",
+  "stats": "+__ Starship Hull Restoration",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener,Console - Engineering - Enhanced Monotanium Alloy,Console - Engineering - Enhanced Neutronium Alloy",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Kin+Phys]",
+  "stats": "+__ Physical Damage Resistance Rating<br>+__ Kinetic Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Enhanced RCS Accelerator,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Kinetic]",
+  "stats": "+__% Projectile Weapon Damage",
+  "type": "Ship Tactical Console",
+  "available": "Console - Tactical - Energetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Mines]",
+  "stats": "+__% Mine Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Per]",
+  "stats": "+__ Starship Perception",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[PhaDis]",
+  "stats": "+__ Phaser Damage Resistance Rating<br>+__ Disruptor Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Pha]",
+  "stats": "+__ Phaser Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Phaser]",
+  "stats": "+__% Phaser Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Energetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Photon]",
+  "stats": "+__% Photon Projectile Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Kinetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[PlaTet]",
+  "stats": "+__ Plasma Damage Resistance Rating<br>+__ Tetryon Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Pla]",
+  "stats": "+__ Plasma Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[PlasmaTorp]",
+  "stats": "+__% Plasma Projectile Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Kinetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Plasma]",
+  "stats": "+__% Plasma Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Energetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[PolAP]",
+  "stats": "+__ Polaron Damage Resistance Rating<br>+__ Antiproton Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Polaron]",
+  "stats": "+__% Polaron Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Energetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Quantum]",
+  "stats": "+__% Quantum Projectile Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Kinetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[ResA]",
+  "stats": "+__ Phaser Damage Resistance Rating<br>+__ Disruptor Damage Resistance Rating<br>+__ Plasma Damage Resistance Rating<br>+__ Tetryon Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[ResAll]",
+  "stats": "+__ All Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener,Console - Engineering - Enhanced RCS Accelerator",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[ResB]",
+  "stats": "+__ Plasma Damage Resistance Rating<br>+__ Tetryon Damage Resistance Rating<br>+__ Polaron Damage Resistance Rating<br>+__ Antiproton Damage Resistance Rating",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[SSRep]",
+  "stats": "+__ Resistance Rating vs. Duration of Subsystem Offline",
+  "type": "Ship Engineering Console",
+  "available": "Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[ShHP]",
+  "stats": "+__% Maximum Shield Capacity",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer,Console - Science - Restorative Particle Focuser,Console - Science - Exotic Particle Focuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[ShHeal]",
+  "stats": "+__ Starship Shield Restoration",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[ShReg]",
+  "stats": "+__% Shield Regeneration Rate",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[ShldPwr]",
+  "stats": "+__ Shield Power Setting",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Stealth]",
+  "stats": "+__ Starship Stealth",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Science - Shield Refrequencer",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Tetryon]",
+  "stats": "+__% Tetryon Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Energetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Torpedo]",
+  "stats": "+__% Torpedo Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Transphasic]",
+  "stats": "+__% Transphasic Projectile Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Kinetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Tricobalt]",
+  "stats": "+__% Tricobalt Projectile Damage",
+  "type": "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+  "available": "Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Advanced Tactical - Vulnerability Locator,Console - Advanced Tactical - Vulnerability Exploiter,Console - Tactical - Auto Targeting Module,Console - Tactical - Kinetic Protomatter Matrix Infuser",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[Turn]",
+  "stats": "+__% Flight Turn Rate",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener,Console - Engineering - Enhanced Monotanium Alloy,Console - Engineering - Enhanced Neutronium Alloy",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Consoles",
+  "modifier": "[WpnPwr]",
+  "stats": "+__ Weapon Power Setting",
+  "type": "Ship Engineering Console,Ship Science Console",
+  "available": "Console - Engineering - Conductive RCS Accelerator,Console - Science - Exotic Particle Field Exciter,Console - Advanced Engineering - Isomagnetic Plasma Distribution Manifold,Console - Advanced Engineering - Hangar Craft Power Transmission,Console - Advanced Science - Energy Field Gradient Projector,Console - Advanced Science - Exotic Particle Amplifier,Console - Engineering - Energy Signature Dampener",
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[AuxPwr]",
+  "stats": "+2 Auxiliary Power",
+  "type": "Ship Deflector Dish",
+  "available": "Preeminent Deflector,Prevailing Innervated Deflector Array,Prevailing Bolstered Deflector Array,Prevailing Fortified Deflector Array,Temporal Defense Initiative Deflector Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[ColCrit]",
+  "stats": "+5-15% Critical Severity (Based on Hull %)<br>+0-4% Critical Chance (Based on Hull %)",
+  "type": "Ship Deflector Dish",
+  "available": "Elite Fleet Preservation Protomatter Deflector Array,Elite Fleet Intervention Protomatter Deflector Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "This modifier is available on [[Fleet Deflector Array#Elite Fleet Protomatter Deflector Arrays|Elite Fleet Protomatter Deflector Arrays]] which can be obtained from a [[Fleet Colony World]] with Renewable Energy Tier III."
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[CtrlX/DrainX]",
+  "stats": "+__ Starship Control Expertise<br>+__ Starship Drain Expertise",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[CtrlX/EPG]",
+  "stats": "+__ Starship Control Expertise<br>+__ Starship Exotic Particle Generator",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[CtrlX/HullCap]",
+  "stats": "+__ Starship Control Expertise<br>+__ Starship Hull Capacity",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[CtrlX/ShdHeal]",
+  "stats": "+__ Starship Control Expertise<br>+__ Starship Shield Restoration",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[CtrlX]",
+  "stats": "+__ Starship Control Expertise",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[DefMan]",
+  "stats": "+__ Starship Defensive Maneuvering",
+  "type": "Ship Deflector Dish",
+  "available": "Advanced Graviton Deflector Array,Advanced Neutrino Deflector Array,Advanced Tachyon Deflector Array,Advanced Positron Deflector Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[DrainX]",
+  "stats": "+__ Starship Drain Expertise",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[EPG/HullCap]",
+  "stats": "+__ Starship Exotic Particle Generator<br>+__ Starship Hull Capacity",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[EPG/ShdHeal]",
+  "stats": "+__ Starship Exotic Particle Generator<br>+__ Starship Shield Restoration",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[EPG]",
+  "stats": "+__ Starship Exotic Particle Generator",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Can appear multiple times on certain special deflectors like the [[Bajor Defense Set#Bajor Defense Deflector Array|Bajor Defense Deflector Array]]."
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[EPS]",
+  "stats": "+__ Starship Electro-Plasma System Flow",
+  "type": "Ship Deflector Dish",
+  "available": "Advanced Graviton Deflector Array,Advanced Neutrino Deflector Array,Advanced Tachyon Deflector Array,Advanced Positron Deflector Array,Elite Fleet Fermion Deflector Array,Elite Fleet Axion Deflector Array,Elite Fleet Preservation Protomatter Deflector Array,Elite Fleet Intervention Protomatter Deflector Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on Fleet deflector arrays."
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[HullCap/DrainX]",
+  "stats": "+__ Starship Hull Capacity<br>+__ Starship Drain Expertise",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[HullCap/ShdHeal]",
+  "stats": "+__ Starship Hull Capacity<br>+__ Starship Shield Restoration",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[HullHeal]",
+  "stats": "+__ Starship Hull Restoration",
+  "type": "Ship Deflector Dish",
+  "available": "Advanced Graviton Deflector Array,Advanced Neutrino Deflector Array,Advanced Tachyon Deflector Array,Advanced Positron Deflector Array,Non-Baryonic Matter Deflector",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[HullRegen]",
+  "stats": "+__ Starship Damage Control",
+  "type": "Ship Deflector Dish",
+  "available": "Advanced Graviton Deflector Array,Advanced Neutrino Deflector Array,Advanced Tachyon Deflector Array,Advanced Positron Deflector Array,Assimilated Deflector Dish",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[SciCD]",
+  "stats": "+50 Scientific Readiness",
+  "type": "Ship Deflector Dish",
+  "available": "Elite Fleet Fermion Deflector Array,Elite Fleet Axion Deflector Array,Dyson Deflector Array,Delta Alliance Deflector Array,Iconian Resistance Deflector Array,Terran Task Force Deflector Array,Lukari Restoration Initiative Deflector Array,Gamma Synergistic Graviton Deflector Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[Sh/HullCap]",
+  "stats": "+__ Starship Shield Capacity<br>+__ Starship Hull Capacity",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[ShCap/CtrlX]",
+  "stats": "+__ Starship Shield Capacity<br>+__ Starship Control Expertise",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[ShCap/DrainX]",
+  "stats": "+__ Starship Shield Capacity<br>+__ Starship Drain Expertise",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[ShCap/EPG]",
+  "stats": "+__ Starship Shield Capacity<br>+__ Starship Exotic Particle Generator",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[ShCap/ShdHeal]",
+  "stats": "+__ Starship Shield Capacity<br>+__ Starship Shield Restoration",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[ShdHeal/DrainX]",
+  "stats": "+__ Starship Shield Restoration<br>+__ Starship Drain Expertise",
+  "type": "Ship Deflector Dish,Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[Stealth]",
+  "stats": "+__ Starship Stealth",
+  "type": "Ship Deflector Dish",
+  "available": "Elite Fleet Fermion Deflector Array,Elite Fleet Axion Deflector Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Deflector Dish",
+  "modifier": "[WepAcc]",
+  "stats": "+__ Starship Weapon Accuracy",
+  "type": "Ship Deflector Dish",
+  "available": "Advanced Graviton Deflector Array,Advanced Neutrino Deflector Array,Advanced Tachyon Deflector Array,Advanced Positron Deflector Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[CrtD]",
+  "stats": "+40% Critical Severity",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available as standard modifier on EV Suits and on certain special Body Armors."
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[CrtH]",
+  "stats": "+5% Critical Chance",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available as standard modifier on EV Suits and on certain special Body Armors."
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[Ene]",
+  "stats": "+5% Energy Damage",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available as standard modifier on EV Suits and on certain special Body Armors."
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[Env]",
+  "stats": "+__ Energy, Radiation and Toxic Damage Resistance Rating",
+  "type": "EV Suit",
+  "available": "Nukara Strikeforce Elite Environmental Suit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[HP/Res]",
+  "stats": "+__ Maximum Hit Points<br>+__ All Damage Resistance Rating",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[HPP]",
+  "stats": "Gives a 5% to heal +__ Hit Points when receiving damage for 5 minutes",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[HP]",
+  "stats": "+__ Maximum Hit Points",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[PhysD]",
+  "stats": "+10% Physical Damage (Melee Only)",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available as standard modifier on EV Suits and on certain special Body Armors."
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[Phys]",
+  "stats": "+__ Physical and Kinetic Damage Resistance Rating",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available as standard modifier on EV Suits and on certain special Body Armors."
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[RadTox]",
+  "stats": "+__ Radiation and Toxic Damage Resistance Rating",
+  "type": "EV Suit",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[RegHP]",
+  "stats": "+__ Health Regeneration",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[RegSH]",
+  "stats": "+__ Shield Regeneration every 4 sec",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[RegenHP/HP]",
+  "stats": "+__ Health Regeneration<br>+__ Maximum Hit Points",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[RegenHP/Res]",
+  "stats": "+__ Health Regeneration<br>+__ All Damage Resistance Rating",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[ResA/HP]",
+  "stats": "+__ Phaser Damage Resistance Rating<br>+__ Tetryon Damage Resistance Rating<br>+__ Polaron Damage Resistance Rating<br>+__ Maximum Hit Points",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[ResA/RegenHP]",
+  "stats": "+__ Phaser Damage Resistance Rating<br>+__ Tetryon Damage Resistance Rating<br>+__ Polaron Damage Resistance Rating<br>+__ Health Regeneration",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[ResB/HP]",
+  "stats": "+__ Disruptor Damage Resistance Rating<br>+__ Plasma Damage Resistance Rating<br>+__ Antiproton Damage Resistance Rating<br>+__ Maximum Hit Points",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[ResB/RegenHP]",
+  "stats": "+__ Disruptor Damage Resistance Rating<br>+__ Plasma Damage Resistance Rating<br>+__ Antiproton Damage Resistance Rating<br>+__ Health Regeneration",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[ResEn]",
+  "stats": "+__ Energy Damage Resistance Rating",
+  "type": "EV Suit",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[Temp]",
+  "stats": "+__ Cold and Fire Damage Resistance Rating",
+  "type": "EV Suit",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Environmental Suit",
+  "modifier": "[Tox]",
+  "stats": "+__ Toxic Damage Resistance Rating",
+  "type": "EV Suit,Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available as standard modifier on EV Suits and on certain special Body Armors."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[4xShPen]",
+  "stats": "100% Shield Penetration",
+  "type": "Ground Weapon",
+  "available": "TR-116B Rifle - Sniper Rifle",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Borg]",
+  "stats": "10% Additional Damage vs Borg (dealt as Kinetic Damage)",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Found on [[Task Force Omega Equipment Requisition]] ground weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[CrtD/CrtH]",
+  "stats": "+2% Critical Chance<br>+20% Critical Severity",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[CrtD]",
+  "stats": "+20% Critical Severity",
+  "type": "Ground Weapon,Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[CrtH]",
+  "stats": "+2% Critical Chance",
+  "type": "Ground Weapon,Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Dm/CrH]",
+  "stats": "+6% Final Damage Multiplier<br>+2% Critical Chance",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Dm/CritD]",
+  "stats": "+6% Final Damage Multiplier<br>+20% Critical Severity",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Dmg]",
+  "stats": "+3% Final Damage Multiplier",
+  "type": "Ground Weapon,Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[DoT1]",
+  "stats": "2.5% Chance: __ Physical Damage per second for 15 seconds",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on Mk 0-III ranged ground weapons. Becomes [DoT2] when upgraded to Mk IV."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[DoT2]",
+  "stats": "2.5% Chance: __ Radiation Damage per second for 15 seconds",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on Mk IV-VII ranged ground weapons. Becomes [DoT3] when upgraded to Mk VIII."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[DoT3]",
+  "stats": "2.5% Chance: __ Radiation Damage per second for 15 seconds in a 10m radius",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on Mk VIII-XV ranged ground weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[KB1]",
+  "stats": "2.5% Chance: Knocks back +5 meters",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on Mk 0-III ranged ground weapons. Becomes [KB2] when upgraded to Mk IV."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[KB2]",
+  "stats": "5% Chance: Knocks the target back +12.5 meters<br>2.5% Chance: Knocks back all foes +6.3 meters in a 8 meter radius",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on Mk VIII-XV ranged ground weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[KB3]",
+  "stats": "5% Chance: Knocks back 10 meters",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on Mk 0-III ranged ground weapons. Becomes [KB2] when upgraded to Mk IV."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Psi]",
+  "stats": "+6.9 Psionic Damage (does not affect non-living targets)",
+  "type": "Ground Weapon",
+  "available": "Vulcan Lirpa",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "This modifier is unique to the Vulcan Lirpa that can be obtained from  [[Mission: Hearts and Minds|&ldquo;Hearts and Minds&rdquo;]]."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[RT3]",
+  "stats": "15% chance: Immobilize for 4 seconds.",
+  "type": "Ground Weapon",
+  "available": "Omega Force Antiproton Autocarbine,Omega Force Antiproton Autocarbine,Boolean Heavy Assault Cannon",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Run]",
+  "stats": "Increases run speed by 15%",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Exclusive to crafted ground weapons. Cannot be re-engineered."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[SDisrupt]",
+  "stats": "15% chance: Vaporizes targets that are low on health.",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Found on [[Fleet Ground Weapons#Elite Fleet Klingon Empire Ground Weapons|Elite Fleet Klingon Empire Ground Weapons]]"
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[SHeal]",
+  "stats": "5% chance: Restores __ Shields every second for 10 seconds on a successful attack.",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Found on [[Fleet Ground Weapons#Elite Fleet Federation Ground Weapons|Elite Fleet Federation Ground Weapons]]."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Sonic]",
+  "stats": "7.5 Sonic (Physical) Damage vs. Tholians",
+  "type": "Ground Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Found on [[Nukara Strikeforce Equipment Requisition]] ground weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ground Weapon",
+  "modifier": "[Stn]",
+  "stats": "5% chance: Stun for 2 seconds (half duration vs player)",
+  "type": "Ground Weapon",
+  "available": "Vulcan Lirpa",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "This modifier is unique to the Vulcan Lirpa that can be obtained from  [[Mission: Hearts and Minds|&ldquo;Hearts and Minds&rdquo;]]."
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[+CRes]",
+  "stats": "+10 Resistance Rating to Control Effects",
+  "type": "Impulse Engine",
+  "available": "Counter-Command Hyper Impulse Engines,Iconian Resistance Hyper-Impulse Engines,Terran Task Force Impulse Engines",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Cannot be re-engineered."
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Aux]",
+  "stats": "Thrusters: 25% speed when engines are disabled",
+  "type": "Impulse Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Damp]",
+  "stats": "+33 Starship Drain Expertise",
+  "type": "Impulse Engine",
+  "available": "Impulse Engines,Hyper-Impulse Engines,Combat Impulse Engines",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available on Crafted Impulse engines. Cannot be re-engineered."
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Full]",
+  "stats": "+__ Full Impulse Flight Speed",
+  "type": "Impulse Engine",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Inertia]",
+  "stats": "+10 Intertia",
+  "type": "Impulse Engine",
+  "available": "Impulse Engines,Hyper-Impulse Engines,Combat Impulse Engines",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available on Crafted Impulse engines. Cannot be re-engineered."
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Pow]",
+  "stats": "+__ Weapon, Shield and Auxiliary Power Setting<br>''(Bonus increases at low power settings)''",
+  "type": "Impulse Engine",
+  "available": "Efficient Impulse Engines,Elite Fleet Efficient Combat Impulse Engines,Elite Fleet Efficient Impulse Engines,Elite Fleet Efficient Hyper-Impulse Engines",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Rrt]",
+  "stats": "+20% Flight Speed when environmental hazards prevent use of Full Impulse.",
+  "type": "Impulse Engine",
+  "available": "Dynamic Reroute Impulse Engines,Jem'Hadar Combat Impulse Engines",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Integrated into [[Dynamic Reroute Impulse Engines]]"
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[SecSpd]",
+  "stats": "+__ Sector Space Travel Speed",
+  "type": "Impulse Engine",
+  "available": "Adapted M.A.C.O. Combat Impulse Engines,Klingon Honor Guard Impulse Engines,Adapted K.H.G. Impulse Engines,M.A.C.O. Impulse Engines",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available as standard modifier on the [[Adapted M.A.C.O. Combat Impulse Engines]] and [[Klingon Honor Guard Impulse Engines]]. Integrated into [[Adapted K.H.G. Impulse Engines]] and [[M.A.C.O. Impulse Engines]]."
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[SedSpd-2]",
+  "stats": "+__ Starship Impulse Expertise<br>+__ Sector Space Travel Speed",
+  "type": "Impulse Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Shard]",
+  "stats": "+__ % Shield Resistance",
+  "type": "Impulse Engine",
+  "available": "Elite Fleet Protomatter Combat Impulse Engines,Elite Fleet Protomatter Impulse Engines,Elite Fleet Protomatter Hyper-Impulse Engines",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Cannot be re-engineered"
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Spd]",
+  "stats": "+__ Flight Speed",
+  "type": "Impulse Engine",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Turn/Spd]",
+  "stats": "+10% Flight Speed<br>+10% Flight Turn Rate",
+  "type": "Impulse Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Epic Modifier"
+ },
+ {
+  "Page": "Template:Modifiers/Impulse Engine",
+  "modifier": "[Turn]",
+  "stats": "+1.3 Flight Turn Rate",
+  "type": "Impulse Engine",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[+Ap]",
+  "stats": "+20% Antiproton Weapon Damage",
+  "type": "Kit",
+  "available": "Herald Tactical Kit, Herald Science Kit,Herald Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[+Dis]",
+  "stats": "+20% Disruptor Weapon Damage",
+  "type": "Kit",
+  "available": "Herald Tactical Kit, Herald Science Kit,Herald Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[+Pha]",
+  "stats": "+20% Phaser Weapon Damage",
+  "type": "Kit",
+  "available": "Herald Tactical Kit, Herald Science Kit,Herald Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[+Pla]",
+  "stats": "+20% Plasma Weapon Damage",
+  "type": "Kit",
+  "available": "Herald Tactical Kit, Herald Science Kit,Herald Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[+Pol]",
+  "stats": "+20% Polaron Weapon Damage",
+  "type": "Kit",
+  "available": "Herald Tactical Kit, Herald Science Kit,Herald Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[+Tet]",
+  "stats": "+20% Tetryon Weapon Damage",
+  "type": "Kit",
+  "available": "Herald Tactical Kit, Herald Science Kit,Herald Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[Armor]",
+  "stats": "+__ Armor Expert",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[BattleStr]",
+  "stats": "Grants access to Battle Strategies",
+  "type": "Kit",
+  "available": "Versatile Engineering Kit,Versatile Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[CrtD]",
+  "stats": "+__% Critical Severity",
+  "type": "Kit",
+  "available": "Delta Expedition Science Kit,Delta Expedition Tactical Kit,Delta Expedition Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[CrtH]",
+  "stats": "+__% Critical Chance",
+  "type": "Kit",
+  "available": "Delta Expedition Science Kit,Delta Expedition Tactical Kit,Delta Expedition Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[CrtX]",
+  "stats": "+__% Critical Severity<br>+__% Critical Chance",
+  "type": "Kit",
+  "available": "Delta Expedition Science Kit,Delta Expedition Tactical Kit,Delta Expedition Engineering Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[CtlDur]",
+  "stats": "+20% Duration of Confuse, Disable, Hold, Placate, Root, and Run Speed Debuffs from Kit Modules",
+  "type": "Kit",
+  "available": "Terran Empire Engineering Kit,Terran Empire Science Kit,Terran Empire Tactical Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[ExpDmg]",
+  "stats": "+__% Increased Exploit Damage",
+  "type": "Kit",
+  "available": "Xindi Tactical Kit,Xindi Engineering Kit,Xindi Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[ExpDur]",
+  "stats": "+__ sec Increased Exploit Duration",
+  "type": "Kit",
+  "available": "Xindi Tactical Kit,Xindi Engineering Kit,Xindi Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[ExpHit]",
+  "stats": "+__% Chance to Expose",
+  "type": "Kit",
+  "available": "Xindi Tactical Kit,Xindi Engineering Kit,Xindi Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[HP]",
+  "stats": "+__ Endurance Training",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[KCD]",
+  "stats": "+__ Kit Readiness",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[KP/Wpn]",
+  "stats": "+__ Kit Performance<br>+__ Weapon Proficiency",
+  "type": "Kit",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[KPerf]",
+  "stats": "+__ Kit Performance",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[MotionAcc]",
+  "stats": "Grants access to Motion Accelerator",
+  "type": "Kit",
+  "available": "Versatile Engineering Kit,Versatile Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[PSG]",
+  "stats": "+__ Personal Shields Expert",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[PSGres]",
+  "stats": "+__ Personal Shield Hardness",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[Proc]",
+  "stats": null,
+  "type": "Body Armor,EV Suit,Ground Weapon,Kit,Personal Shield,Ship Aft Weapon,Ship Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[PsiBuff]",
+  "stats": "'''Psionic Howl''': When using certain abilities, 30% chance to deal __ Psionic damage (100% Shield Penetration) to all enemies within 15m of target Friend (or Self).",
+  "type": "Kit",
+  "available": "Fluidic Tactical Kit,Fluidic Engineering Kit, Fluidic Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[PsiDmg]",
+  "stats": "'''Psionic Emissions''': When using certain abilities, 30% chance to deal __ Psionic damage (100% Shield Penetration) to Foe.",
+  "type": "Kit",
+  "available": "Fluidic Tactical Kit,Fluidic Engineering Kit, Fluidic Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[PsiDot]",
+  "stats": "'''Psionic Consumption''': When using certain abilities, 30% chance to deal __ Psionic damage (100% Shield Penetration) to Foe every second for 10 seconds.",
+  "type": "Kit",
+  "available": "Fluidic Tactical Kit,Fluidic Engineering Kit, Fluidic Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[Regen]",
+  "stats": "+__ Health Regen",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[ShRecharge]",
+  "stats": "Grants access to Shield Recharge",
+  "type": "Kit",
+  "available": "Versatile Tactical Kit,Versatile Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[SonicP]",
+  "stats": "Grants access to Sonic Pulse",
+  "type": "Kit",
+  "available": "Versatile Engineering Kit,Versatile Tactical Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[Undine]",
+  "stats": "+10% All Damage vs. Undine",
+  "type": "Kit",
+  "available": "Counter-Command Engineering Kit,Counter-Command Science Kit,Counter-Command Tactical Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[VascReg]",
+  "stats": "Grants access to Vascular Regenerator",
+  "type": "Kit",
+  "available": "Versatile Engineering Kit,Versatile Tactical Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[Will]",
+  "stats": "+__ Willpower",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[WpnCrit]",
+  "stats": "+__ Weapon Criticals",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[WpnDmg]",
+  "stats": "+__ Weapon Proficiency",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[WpnMalf]",
+  "stats": "Grants access to Weapons Malfunction",
+  "type": "Kit",
+  "available": "Versatile Tactical Kit,Versatile Science Kit",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Kit",
+  "modifier": "[WpnPen]",
+  "stats": "+__ Weapon Penetration",
+  "type": "Kit",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Ap]",
+  "stats": "+__ Antiproton Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Dire]",
+  "stats": "'''Life Support Energy Diversion'''<br>Damage is Enhanced by Current Health\n:* +__% Bonus All Damage\n<br>''(Decreases with Health Loss, Minimum 5%)",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Exclusive to Elite Fleet Colony Polyalloy Weave and Energy Dampening Armor"
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Dis]",
+  "stats": "+__ Disruptor Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Ener]",
+  "stats": "+__ Kinetic Damage Resistance Rating<br>+__ Energy Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Exclusive to Elite Fleet Colony Energy Dampening Armor."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Nanite]",
+  "stats": "Grant '''Medical Nanite Generator - Scan'''\n:If the wearer is below 50% Health he or she receives:<br>+___ Hit Points<br>Removes all expose effects.<br>This effect can only happen once every 3 minutes.",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Exclusive to Elite Fleet Polyalloy Weave and Energy Dampening Armor."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[PhaDis]",
+  "stats": "+__ Phaser and Disruptor Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Pha]",
+  "stats": "+__ Phaser Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Physr]",
+  "stats": "+__ Physical Damage Resistance Rating<br>+__ Kinetic Damage Resistance Rating<br>+__ Energy Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Exclusive to Elite Fleet Colony Polyalloy Weave Armor."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[PlaTet]",
+  "stats": "+__ Plasma and Tetryon Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Pla]",
+  "stats": "+__ Plasma Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[PolAp]",
+  "stats": "+__ Polarpn and Antiproton Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Pol]",
+  "stats": "+__ Polaron Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[ResAll]",
+  "stats": "+__ All Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": "This modifier is restricted to two copies per item."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Armor",
+  "modifier": "[Tet]",
+  "stats": "+__ Tetryon Damage Resistance Rating",
+  "type": "Body Armor",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Adapt]",
+  "stats": "When your shields are hit, Adaptive Shielding has a chance to activate, increasing your Shields' resistance to the incoming damage type for a short time. Adaptive shields stack up to 10 times, and can resist several damage types at once.",
+  "type": "Personal Shield",
+  "available": "Elite Fleet Adaptive Personal Shield",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on [[Fleet Personal Shields#Elite Fleet Adaptive Personal Shields|Elite Fleet Adaptive Personal Shields]]."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Ap]",
+  "stats": "Reduces Antiproton Damage to Shields by 20%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Cap2]",
+  "stats": "Increases Maximum Shield Capacity by 20%",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Cap]",
+  "stats": "Increases Maximum Shield Capacity by 10%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Dis]",
+  "stats": "Reduces Disruptor Damage to Shields by 20%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Ene]",
+  "stats": "Chance to provide a 10% Energy Damage Buff for 4 sec when you take damage",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Mob]",
+  "stats": "+__ Root and Knockback Resistance Rating",
+  "type": "Personal Shield,Body Armor,EV Suit",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[PBDmg]",
+  "stats": "Chance to deal __ damage to all nearby foes when you take damage",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "This deals 15 base damage and scales only with sources of All Damage boosts."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[PBKB]",
+  "stats": "Chance to knock down nearby foes when you take damage",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Pha]",
+  "stats": "Reduces Phaser Damage to Shields by 20%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Pla]",
+  "stats": "Reduces Plasma Damage to Shields by 20%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Pol]",
+  "stats": "Reduces Polaron Damage to Shields by 20%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[ReAll]",
+  "stats": "Reduces Disruptor, Plasma, Antiproton, Phaser, Polaron, and Tetryon Damage to Shields by 15%",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[RegSH]",
+  "stats": "+__ Shield Regeneration every 1 sec",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": "Only available on [[Fleet Personal Shields]]."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Reg]",
+  "stats": "Regenerates __ Shield Capacity every 2 seconds",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[ResA]",
+  "stats": "Reduces Phaser, Polaron and Tetryon Damage to Shields by 15%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[ResB]",
+  "stats": "Reduces Disruptor, Plasma and Antiproton Damage to Shields by 15%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Resx2]",
+  "stats": "Reduces All Energy Damage to Shields by 10%",
+  "type": "Personal Shield",
+  "available": "Counter-Command Personal Shield,Refractive Nanofiber Personal Shield Matrix",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Rev]",
+  "stats": "Chance to damage the attacker when you take damage. The stronger the attack, the more powerful the retaliation.",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[ShldCrit]",
+  "stats": "+0-15% Critical Severity (Based on Shield %)<br>+0-2.5% Critical Chance (Based on Shield %)",
+  "type": "Personal Shield",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": "Only available on [[Fleet Personal Shields#Elite Fleet Colony Personal Shields|Elite Fleet Colony Personal Shields]]."
+ },
+ {
+  "Page": "Template:Modifiers/Personal Shield",
+  "modifier": "[Tet]",
+  "stats": "Reduces Tetryon Damage to Shields by 20%",
+  "type": "Personal Shield,Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[+Chance]",
+  "stats": "Improves the chance for Subsystem Targeting abilities to knock a subsystem offline by 25%",
+  "type": "Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[-Recharge]",
+  "stats": "Subsystem power recharge time reduced by 25%",
+  "type": "Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[Acc]",
+  "stats": "+__ Accuracy Rating",
+  "type": "Ship Secondary Deflector",
+  "available": "Strategic Deteriorating Secondary Deflector,Strategic Inhibiting Secondary Deflector,Strategic Resonating Secondary Deflector",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[Def]",
+  "stats": "+__ Defense Rating",
+  "type": "Ship Secondary Deflector",
+  "available": "Strategic Deteriorating Secondary Deflector,Strategic Inhibiting Secondary Deflector,Strategic Resonating Secondary Deflector",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[EnDmg]",
+  "stats": "+__ % Energy Weapon Damage",
+  "type": "Ship Secondary Deflector",
+  "available": "Strategic Deteriorating Secondary Deflector,Strategic Inhibiting Secondary Deflector,Strategic Resonating Secondary Deflector",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[ProjDmg]",
+  "stats": "+__ % Projectile Weapon Damage",
+  "type": "Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[SA +Dmg]",
+  "stats": "Improves Sensor Analysis damage buff by 20%",
+  "type": "Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[SA +Heal]",
+  "stats": "Improves Sensor Analysis healing buff by 20%",
+  "type": "Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Secondary Deflector",
+  "modifier": "[SA -Def]",
+  "stats": "If target is a foe: -2% Defense per stack (6 max stacks)",
+  "type": "Ship Secondary Deflector",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[Adapt]",
+  "stats": "When your shields are hit, Adaptive Shielding gains one charge, increasing your Shields' resistance to the incoming damage type by 2% for 30 seconds. Stacks up to 10 times (per damage type).",
+  "type": "Ship Shields",
+  "available": "Elite Fleet Adaptive Resilient Shield Array,Elite Fleet Adaptive Regenerative Shield Array,Elite Fleet Adaptive Covariant Shield Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on [[Fleet Space Shields#Elite Fleet Space Shields|Elite Fleet Shield Arrays]]"
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[Amp]",
+  "stats": "Amplifies incoming healing by 10%",
+  "type": "Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available on crafted Shields. Cannot be re-engineered"
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[C/R]",
+  "stats": "Increases Maximum Shield Capacity by 5%<br>Increases Shield Regeneration by 5%",
+  "type": "Ship Shields",
+  "available": "Jem'Hadar Resilient Shields,Preeminent Covariant Shields",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[Cp/Rg]",
+  "stats": "Increases Maximum Shield Capacity by 10%<br>Increases Shield Regeneration by 10%",
+  "type": "Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[EngCD]",
+  "stats": "+__ Starship Engineering Readiness (based on current Shield Capacity Percentage)",
+  "type": "Ship Shields",
+  "available": "Elite Fleet Channeling Resilient Shield Array,Elite Fleet Channeling Regenerative Shield Array,Elite Fleet Covariant Resilient Shield Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[Heal]",
+  "stats": "Amplifies outgoing healing by 5%",
+  "type": "Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Available on crafted Shields. Cannot be re-engineered"
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[Rad]",
+  "stats": "Reduces Radiation Damage to Shields by 20%",
+  "type": "Ship Shields",
+  "available": "Preeminent Covariant Shields,Dielectric Oscillation Resilient Shields,Assimilated Regenerative Shield Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[Reg]",
+  "stats": "Increases Shield Regeneration by 10%",
+  "type": "Ship Shields",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[ResAll]",
+  "stats": "Reduces All Energy Damage to Shields by 10%",
+  "type": "Ship Shields",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[SciCD]",
+  "stats": "+__ Starship Science Readiness (based on current Shield Capacity Percentage)",
+  "type": "Ship Shields",
+  "available": "Elite Fleet Channeling Resilient Shield Array,Elite Fleet Channeling Regenerative Shield Array,Elite Fleet Covariant Resilient Shield Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Shields",
+  "modifier": "[TacCD]",
+  "stats": "+__ Starship Tactical Readiness (based on current Shield Capacity Percentage)",
+  "type": "Ship Shields",
+  "available": "Elite Fleet Channeling Resilient Shield Array,Elite Fleet Channeling Regenerative Shield Array,Elite Fleet Covariant Resilient Shield Array",
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Ac/CrtD]",
+  "stats": "+10 Accuracy<br>+20% Critical Severity",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Ac/CrtH]",
+  "stats": "+10 Accuracy<br>+2% Critical Chance",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Ac/Dm]",
+  "stats": "+10 Accuracy<br>+6% Final Damage Multiplier",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Acc]",
+  "stats": "+10 Accuracy Rating",
+  "type": "Ship Weapon,Ship Fore Weapon",
+  "available": null,
+  "isunique": "0",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Arc]",
+  "stats": "Increased firing arc depending on weapon type.",
+  "type": "Ship Fore Weapon,Ship Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "* Sets Torpedo firing arc to 180°\n* Sets Dual Heavy Cannon firing arc to 90°\n* Also present on Omni-Directional Beam Arrays"
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[CrtD/Dm]",
+  "stats": "+20% Critical Severity<br>+6% Final Damage Modifier",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[CrtH/CritD]",
+  "stats": "+20% Critical Severity<br>+2% Critical Chance",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[CrtH/Dm]",
+  "stats": "+2% Critical Chance<br>+6% Final Damage Modifier",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[CrtX]",
+  "stats": "+10% Critical Severity<br>+2% Critical Chance",
+  "type": "Ground Weapon,Experimental Weapon,Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Found on various Fleet ground weapons, as well as on some space weapons (e.g. [[Advanced Phaser Beam Array]]) and experimental weapons (e.g. [[Experimental Flak Shot Artillery]])"
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Dm/Dm]",
+  "stats": "+12% Final Damage Multiplier",
+  "type": "Ship Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Over]",
+  "stats": "2.5% chance: Your next Beam Attack is an Overload that deals 470% of its normal damage",
+  "type": "Ship Weapon,Ship Fore Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on crafted beam weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Pen]",
+  "stats": "All attacks with this weapon have 10 Armor Penetration",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on crafted weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Radius]",
+  "stats": "+0.5km Explosion Radius",
+  "type": "Ship Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Rapid]",
+  "stats": "2.5% chance: Activates Rapid Fire mode for all cannons on your ship for 2 seconds.",
+  "type": "Ship Weapon,Ship Fore Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on crafted cannon weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Snare]",
+  "stats": "To target: -5% Speed and Turn Rate on Hit",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on crafted weapons."
+ },
+ {
+  "Page": "Template:Modifiers/Ship Weapons",
+  "modifier": "[Thrust]",
+  "stats": "Self: +5% Speed and Turn Rate when firing.",
+  "type": "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "Only available on crafted weapons."
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[A->E]",
+  "stats": "Adds 7.5% of your Auxiliary power to your Engine Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[A->S]",
+  "stats": "Adds 7.5% of your Auxiliary power to your Shield Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[A->W]",
+  "stats": "Adds 7.5% of your Auxiliary power to your Weapon Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[ACap]",
+  "stats": "'''Battery Capacitor'''",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "'''Battery Capacitor:''' <br>Auxiliary Power Buff<br>Repairs offline auxiliary systems<br>+15 Auxiliary Power Setting for 10 sec<br>4 min recharge"
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[Bat]",
+  "stats": "+__ Starship Battery Expertise",
+  "type": "Warp Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[E->A]",
+  "stats": "Adds 7.5% of your Engine power to your Auxiliary Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[E->S]",
+  "stats": "Adds 7.5% of your Engine power to your Shield Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[E->W]",
+  "stats": "Adds 7.5% of your Engine power to your Weapon Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[ECap]",
+  "stats": "'''Engines Capacitor'''",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "'''Engines Capacitor:''' <br>Engine Power Buff<br>Repairs offline engines subsystem<br>+15 Engine Power Setting for 10 sec<br>4 min recharge"
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[EPG]",
+  "stats": "+__ Starship Exotic Particle Generator",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[EPS]",
+  "stats": "+__ Starship Electro-Plasma System Flow",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[Eff]",
+  "stats": "+__ Starship Warp Core Efficiency",
+  "type": "Warp Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[GG]",
+  "stats": "+__ Starship Control Expertise",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[Jump]",
+  "stats": "Increases the effect of your Singularity Jump's accuracy rating debuff by 100%",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[OLoad]",
+  "stats": "While Singularity Overcharge is active, you gain 20% Crit Severity",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[PI]",
+  "stats": "+__ Starship Drain Expertise",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[Rep]",
+  "stats": "+__ Starship Damage Control",
+  "type": "Warp Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[Res]",
+  "stats": "Your Quantum Absorption also provides you with 20 resistance to all damage.",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[S->A]",
+  "stats": "Adds 7.5% of your Shield power to your Auxiliary Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[S->E]",
+  "stats": "Adds 7.5% of your Shield power to your Engine Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[S->W]",
+  "stats": "Adds 7.5% of your Shield power to your Weapon Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[SCap]",
+  "stats": "'''Shield Capacitor'''",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "'''Shield Capacitor:''' <br>Shield Power Buff<br>+__ Shield Regeneration<br>Repairs offline shield systems<br>+15 Shield Power Setting for 10 sec<br>4 min recharge"
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[SEP]",
+  "stats": "+__ Starship Engine Subsystem Performance",
+  "type": "Warp Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[SecSpd]",
+  "stats": "+__ Sector Space Travel Speed",
+  "type": "Warp Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[Shad]",
+  "stats": "Your Warp Shadow will confuse all High - Yield Torpedoes in a 5km radius",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[SingA]",
+  "stats": "Increases your Singularity Charge Rate by 20%",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[SingC]",
+  "stats": "Reduces the cooldown time on Singularity Power use by 10%",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[SingS]",
+  "stats": "Decreases the rate at which you loose Singularity Power by 20%",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[W->A]",
+  "stats": "Adds 7.5% of your Weapon power to your Auxiliary Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[W->E]",
+  "stats": "Adds 7.5% of your Weapon power to your Engine Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[W->S]",
+  "stats": "Adds 7.5% of your Weapon power to your Shield Power as bonus Power",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "1",
+  "info": null
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[WCap]",
+  "stats": "'''Weapons Capacitor'''",
+  "type": "Warp Engine,Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": "'''Weapons Capacitor:''' <br>Weapon Power Buff<br>Repairs offline shield systems<br>+__ Shield Regeneration<br>+15 Shield Power Setting for 10 sec<br>4 min recharge"
+ },
+ {
+  "Page": "Warp Core",
+  "modifier": "[Wave]",
+  "stats": "'''Improved Plasma Shockwave:''' to target: 20% chance: Disable 1 Subsystem for 7.5 sec",
+  "type": "Singularity Engine",
+  "available": null,
+  "isunique": "1",
+  "isepic": "0",
+  "info": null
+ }
+]
