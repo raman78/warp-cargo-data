@@ -2260,7 +2260,7 @@
   "name": "Hammer and Anvil",
   "system": null,
   "description": "Team-Wide positional Buffs",
-  "description long": "Originally a cavalry maneuver used to great effect by Earth's Alexander the Great, the concept of the \"Hammer &amp; Anvil\" is fairly simple - one group of troops acts as the \"anvil\" holding the enemies' attention and keeping them in position, while the \"hammer\" is smashed into their flanks. Executing this maneuver on the ground will grant yourself and any nearby allies a bonus based on their relative position to the target they are attacking: If their Foe is facing them, they will gain Damage Resistance. If their Foe is facing away, they deal extra Flanking damage. Each of these effects are mutually exclusive.",
+  "description long": "Originally a cavalry maneuver used to great effect by Earth's Alexander the Great, the concept of the \"Hammer & Anvil\" is fairly simple - one group of troops acts as the \"anvil\" holding the enemies' attention and keeping them in position, while the \"hammer\" is smashed into their flanks. Executing this maneuver on the ground will grant yourself and any nearby allies a bonus based on their relative position to the target they are attacking: If their Foe is facing them, they will gain Damage Resistance. If their Foe is facing away, they deal extra Flanking damage. Each of these effects are mutually exclusive.",
   "targets": "Self",
   "affects": "Friend and Self",
   "activation": "1",

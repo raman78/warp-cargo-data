@@ -29052,7 +29052,7 @@
  {
   "Page": "Orion D'Var Temporal Science Vessel",
   "name": "Orion D'Var Temporal Science Vessel",
-  "image": "File:Orion D&#39;Var Temporal Science Vessel.png",
+  "image": "File:Orion D'Var Temporal Science Vessel.png",
   "image2": null,
   "released": "20240314",
   "internalname": null,
@@ -34890,7 +34890,7 @@
   "secdeflector": "0",
   "hangars": null,
   "cost": "17000;Zen",
-  "abilities": "The Court of Silence,\nBazminti&#44; his secrets kept close,Zinda&#44; at peace&#44; before the ordeal,Mirab&#44; with sails unfurled,Uzani&#44; his army with fists open\n,Inspiration Abilities",
+  "abilities": "The Court of Silence,\nBazminti, his secrets kept close,Zinda, at peace, before the ordeal,Mirab, with sails unfurled,Uzani, his army with fists open\n,Inspiration Abilities",
   "admiraltyeng": "60",
   "admiraltytac": "45",
   "admiraltysci": "21",
