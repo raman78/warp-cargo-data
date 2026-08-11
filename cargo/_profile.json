@@ -1,0 +1,2657 @@
+{
+ "version": 1,
+ "generated_at": "2026-08-11T10:23:58+00:00",
+ "script_errors": 160,
+ "files": {
+  "boff_abilities.json": {
+   "rows": 237,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 237
+    },
+    "activation": {
+     "fill": 0.7806,
+     "types": {
+      "float": 0.616,
+      "empty": 0.2194,
+      "int": 0.1603,
+      "text": 0.0042
+     },
+     "cardinality": 17,
+     "values": [
+      "0",
+      "0.2",
+      "0.25",
+      "0.5",
+      "0.6",
+      "0.75",
+      "0.83",
+      "1",
+      "1.1",
+      "1.25",
+      "1.25 seconds",
+      "1.3",
+      "1.5",
+      "2",
+      "2.5",
+      "2.7",
+      "3"
+     ]
+    },
+    "affects": {
+     "fill": 0.6751,
+     "types": {
+      "text": 0.6751,
+      "empty": 0.3249
+     },
+     "cardinality": 55
+    },
+    "description": {
+     "fill": 1.0,
+     "types": {
+      "text": 0.9409,
+      "wikitext": 0.0591
+     },
+     "cardinality": 230
+    },
+    "description long": {
+     "fill": 1.0,
+     "types": {
+      "text": 0.865,
+      "wikitext": 0.135
+     },
+     "cardinality": 234
+    },
+    "name": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 237
+    },
+    "rank1info": {
+     "fill": 1.0,
+     "types": {
+      "text": 0.5992,
+      "wikitext": 0.4008
+     },
+     "cardinality": 237
+    },
+    "rank1rank": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "Commander",
+      "Ensign",
+      "Lieutenant",
+      "Lieutenant Commander",
+      "Lt Commander",
+      "Lt. Commander"
+     ]
+    },
+    "rank2info": {
+     "fill": 1.0,
+     "types": {
+      "text": 0.6034,
+      "wikitext": 0.3966
+     },
+     "cardinality": 237
+    },
+    "rank2rank": {
+     "fill": 1.0,
+     "types": {
+      "text": 0.9705,
+      "wikitext": 0.0295
+     },
+     "cardinality": 8,
+     "values": [
+      "Commander",
+      "Lieutenant",
+      "Lieutenant Commander",
+      "Lt Commander",
+      "Lt. Commander",
+      "[[Kit#Standard_2|Kit module]]",
+      "[[Kit#Standard_3|Kit Module]]",
+      "[[Kit#Standard|Kit Module]]"
+     ]
+    },
+    "rank3info": {
+     "fill": 0.9958,
+     "types": {
+      "text": 0.5992,
+      "wikitext": 0.3966,
+      "empty": 0.0042
+     },
+     "cardinality": 236
+    },
+    "rank3rank": {
+     "fill": 0.9958,
+     "types": {
+      "text": 0.9494,
+      "wikitext": 0.0464,
+      "empty": 0.0042
+     },
+     "cardinality": 8,
+     "values": [
+      "Commander",
+      "Lieutenant Commander",
+      "Lt. Commander",
+      "[[Captain ability|Captain Ability]]",
+      "[[Kit#Standard_2|Kit Module]]",
+      "[[Kit#Standard_2|Kit module]]",
+      "[[Kit#Standard_3|Kit Module]]",
+      "[[Kit#Standard|Kit Module]]"
+     ]
+    },
+    "rank4info": {
+     "fill": 0.4473,
+     "types": {
+      "empty": 0.5527,
+      "wikitext": 0.2363,
+      "text": 0.211
+     },
+     "cardinality": 106
+    },
+    "rank4rank": {
+     "fill": 0.443,
+     "types": {
+      "empty": 0.557,
+      "wikitext": 0.443
+     },
+     "cardinality": 15,
+     "values": [
+      "[[Kit Module]]",
+      "[[Kit module]]",
+      "[[Kit#Fleet|Kit Module]]",
+      "[[Kit#Lock_Box_2|Kit Module]]",
+      "[[Kit#Lock_Box_3|Kit Module]]",
+      "[[Kit#Lock_Box_4|Kit Module]]",
+      "[[Kit#Lock_Box|Kit Module]]",
+      "[[Kit#Seasonal_2|Kit Module]]",
+      "[[Kit#Seasonal_3|Kit Module]]",
+      "[[Kit#Seasonal|Kit Module]]",
+      "[[Kit#Standard 2|Kit Module]]",
+      "[[Kit#Standard_2|Kit Module]]",
+      "[[Kit#Standard_2|Kit module]]",
+      "[[Kit#Standard_3|Kit Module]]",
+      "[[Kit#Standard|Kit Module]]"
+     ]
+    },
+    "rank5info": {
+     "fill": 0.1435,
+     "types": {
+      "empty": 0.8565,
+      "wikitext": 0.1013,
+      "text": 0.0422
+     },
+     "cardinality": 34,
+     "values": [
+      "* +__ Hit Points\n* Removes all Expose effects\n* +50 All Damage resistance for 4 sec",
+      "* +__% Bonus All Damage for 15 sec\n* __ Stealth for 15 sec",
+      "* +__% Bonus Melee Physical Damage for __ sec\n* +__% Run Speed for __ sec\n* Immunity to Run Speed Debuffs for __ sec\n* Immunity to Root for __ sec\n* Immunity to Hold for __ sec",
+      "* 50% chance: Knocks back +__ meters\n* -__ Shield damage\n* Destroys force fields\n* 15% Chance: Shields offline for 8 sec",
+      "* Interrupt\n* -66% Run Speed for __ sec\n* 75% chance: Root target for __ sec",
+      "* Removes all debuffs\n* +__% Physical Melee Damage for 30 sec\n* +__% Maximum Hit Points for 30 sec",
+      "+2,800% Threat Generation for 1.3 sec for 30 sec<br>+__ All Damage Resistance Rating for 1.3 sec for __ sec",
+      "+__ All Damage Resistance Rating for 30 sec<br>Removes all mechanical debuffs for 30 sec<br>Reduces Damage to Shields by __% for 30 sec",
+      "+__ Hit Points to Fabrications and Androids<br>Removes all debuffs on use<br>+__% All Ranged Weapons Damage for 15 sec<br>+__ All Damage resistance to Fabrications and Androids for 15 sec",
+      "+__ HitPoints/sec for 10 sec<br>\nRemoves all expose effects.<br>\nRemoves up to 100 bleed or debuff effects.<br>\n+35 All Damage Resistance Rating for 10 sec.",
+      "+__ Shield Regeneration<br>40% Shield Resistance for 3 sec",
+      "+__% Bonus Damage to flaking attacks for 10 sec<br>+__ Stealth<br>Disables your combat actions for 2.5 sec",
+      "-33.3% Ranged weapons damage for __ sec<br>Disables ranged weapons for __ sec",
+      "-66% Runspeed for __ sec, then:<br>+2 Root for 6 sec, then:<br>+2 Stun for __ sec<br>__ Electrical Damage every sec for the full duration of Fuse Armor (100% Shield Penetration)",
+      "Creates 5 Barrier Mines for 60 sec that take 4 seconds to arm. Once armed, when an enemy closes to within 1.5m they detonate, causing foes within 3m to suffer:<br>__ Kinetic Damage (50% Shield Penetration)<br>-50% Runspeed for __ sec",
+      "Creates a Anesthizine Gas Cloud for 30 sec<br>\nEach second, to foes in a 5m radius:\n* 50% chance: Hold for __ sec\n* -66% Run Speed for __ sec\n* -53.7% All Damage for __ sec",
+      "Creates a Combat Supply V Crate for 25 sec",
+      "Creates a Medical Generator for 180 sec:<br>To Allies within 6m:<br>+__ Hit Points/sec<br>+20 All damage Resistance Rating for 1.2 sec<br>''The effects of multiple Medical Generators cannot be stacked, and do not apply to fabrications.",
+      "Creates a Quantum Mortar that launches explosives at targets within 40m once every 6 seconds.<br>To targets hit by the explosion:\n* __ Kinetic Damage (50% Shield Penetration)\n* 50% chance: Knocks back +10 meters",
+      "Creates a Shield Generator for 180 sec<br>To Allies within 4m:<br>__ Shield Regeneration/sec<br>38% Shield Resistance for 1 sec<br>''The effects of multiple Shield Generators cannot be stacked, and do not apply to fabrications.''",
+      "Creates a cloud of smoke for 18 sec:<br>To Allies: +__ Stealth for 1.3 sec<br>To Allies: +__% chance to Dodge attacks for reduced damage<br>To Foes: -__ Perception for 1.3 sec<br>To Foes: 40% chance: To Expose",
+      "For __ sec:<br>+__ All Damage Resistance Rating to allies<br>When allies receive All Damage, 3% chance of applying 8 sec Expose to damage owner<br>When allies receive All Damage, -__ All Damage Resistance Rating for 5 sec to damage owner",
+      "Fragile Hold for __ sec<br>(Fragile Hold for __ sec vs. Player Targets)",
+      "Grants Suppressing Fire V for __ sec to All Ranged Weapons\n* To Target: -66% Run Speed for __ sec\n* To Target: -__% All Damage for __ sec\n* To Target: 10% chance: +2 Root for __ sec",
+      "Nanites scan nearby allies for __ sec\n\nWhen an ally drops below 75% health they will receive:<br>\n+__ Hit Points<br>\n+35 All Damage Resistance Rating for 15 sec<br>\nRemoves all expose effects.<br>\nThis ability has 3 charges.",
+      "Removes all debuffs on use<br>+__% Bonus All Damage for 15 sec<br>For 15 secs, when receiving All Damage, 5% chance of applying 8 sec Expose to damage owner",
+      "Removes all debuffs<br>\nRemoves all expose effects<br>\n+__ Energy Damage Resistance Rating for 45 sec",
+      "Target is surrounded by a Radiation Cloud:<br>\n__ Radiation Damage per second to target<br>\nAlso damages all enemies within 5 meters of target",
+      "__ Kinetic Damage (50% Shield penetration; Damage reduces from epicenter)\n\n70% chance: Knocks back +__ metres",
+      "__ Kinetic Damage (50% Shield penetration; Damage reduces from epicenter)<br>Creates a 3.5m radius Plasma Fire patch for 25 sec that deals:<br>__ Plasma Damage (50% Shield penetration)",
+      "__ Physical Damage (50% Shield Penetration)<br>Knocks Back __ meters<br>Interrupt<br>-66% Runspeed for __ sec",
+      "__ Physical Damage (__ DPS) (50% Shield Penetration)\n\n15% chance: Knock Back __ meters",
+      "__ Physical Damage (__ DPS)<br>100% chance: Knocks back 1.83 meters",
+      "to target: __ Kinetic Damage (50% Shield Penetration; Damage reduces from epicenter)<br>to target: Hold for __ sec"
+     ]
+    },
+    "rank5rank": {
+     "fill": 0.1435,
+     "types": {
+      "empty": 0.8565,
+      "wikitext": 0.1435
+     },
+     "cardinality": 5,
+     "values": [
+      "[[Kit#Standard 2|Kit Module]]",
+      "[[Kit#Standard_2|Kit Module]]",
+      "[[Kit#Standard_2|Kit module]]",
+      "[[Kit#Standard_3|Kit Module]]",
+      "[[Kit#Standard|Kit Module]]"
+     ]
+    },
+    "recharge base": {
+     "fill": 0.9873,
+     "types": {
+      "int": 0.9873,
+      "empty": 0.0127
+     },
+     "cardinality": 20,
+     "values": [
+      "10",
+      "120",
+      "15",
+      "16",
+      "18",
+      "180",
+      "20",
+      "24",
+      "25",
+      "30",
+      "33",
+      "35",
+      "40",
+      "45",
+      "50",
+      "60",
+      "75",
+      "8",
+      "85",
+      "90"
+     ]
+    },
+    "recharge global": {
+     "fill": 0.4895,
+     "types": {
+      "empty": 0.5105,
+      "int": 0.4895
+     },
+     "cardinality": 10,
+     "values": [
+      "0",
+      "10",
+      "15",
+      "20",
+      "25",
+      "30",
+      "40",
+      "45",
+      "5",
+      "60"
+     ]
+    },
+    "region": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "Ground",
+      "Space"
+     ]
+    },
+    "system": {
+     "fill": 0.1392,
+     "types": {
+      "empty": 0.8608,
+      "text": 0.1392
+     },
+     "cardinality": 16,
+     "values": [
+      "Auxiliary Power",
+      "Batteries",
+      "Beams",
+      "Cannons",
+      "Crew",
+      "Deflector Dish",
+      "Energy Weapons",
+      "Exotic Damage",
+      "Maneuvers",
+      "Mines",
+      "Shields",
+      "Torpedo Weapons",
+      "Torpedoes",
+      "Warp Core",
+      "Weapon Modifications",
+      "Weapons"
+     ]
+    },
+    "targets": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 19,
+     "values": [
+      "Allies and Self",
+      "Anything Alive",
+      "Anything except Yourself",
+      "Dead or Alive Foe",
+      "Enemy",
+      "Foe",
+      "Foe (5 max)",
+      "Foe (Dead or Alive)",
+      "Foe (max 6)",
+      "Foe and Self",
+      "Foes",
+      "Friend (not self)",
+      "Friend and Self",
+      "Friend or Self",
+      "Friend, Self",
+      "Self",
+      "Self, Ally",
+      "Self, Friend",
+      "self"
+     ]
+    },
+    "type": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 9,
+     "values": [
+      "Command",
+      "Engineering",
+      "Intelligence",
+      "Miracle Worker",
+      "Pilot",
+      "Science",
+      "Tactical",
+      "Temporal",
+      "Temporal Operative"
+     ]
+    }
+   }
+  },
+  "doffs.json": {
+   "rows": 1705,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 1705
+    },
+    "faction": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "Cross-Faction",
+      "Dominion",
+      "Klingon Empire",
+      "Romulan Republic",
+      "TOS Federation",
+      "United Federation of Planets"
+     ]
+    },
+    "gender": {
+     "fill": 0.9982,
+     "types": {
+      "text": 0.9982,
+      "empty": 0.0018
+     },
+     "cardinality": 4,
+     "values": [
+      "Female",
+      "Male",
+      "Other",
+      "male"
+     ]
+    },
+    "image": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 747
+    },
+    "name": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 1663
+    },
+    "powerdesc1": {
+     "fill": 0.0141,
+     "types": {
+      "empty": 0.9859,
+      "text": 0.0141
+     },
+     "cardinality": 3,
+     "values": [
+      "<span style=\"color:tan\">[GR]</span> Increased Expose chance vs. Romulans",
+      "<span style=\"color:violet\">[SP]</span> Recharge time reduced for Engineering Team and Buff",
+      "<span style=\"color:violet\">[SP]</span> Reduces Accuracy of Romulans"
+     ]
+    },
+    "powerdesc2": {
+     "fill": 0.0141,
+     "types": {
+      "empty": 0.9859,
+      "wikitext": 0.0111,
+      "text": 0.0029
+     },
+     "cardinality": 13,
+     "values": [
+      "+10% All Damage",
+      "+15 Auxiliary Power while Cloaked",
+      "+5% All Damage",
+      "Does not affect enemy players. Stacks with other Borg Warfare Duty Officers<br><br>Neal Falconer does not count toward the players' Ground Warfare Specialist equip limit when placed on Active Duty.<br>+5% All Damage",
+      "Does not affect enemy players.<br />+10% All Damage",
+      "Does not affect enemy players.<br>+10% Damage against Undine",
+      "Does not affect enemy players.<br>+10% Damage against Vaadwaur",
+      "Having this officer on active duty will grant your energy weapons a chance to reduce the Accuracy of enemy Romulans in Space.<br /> * *Does not affect enemy players.<br /><br /> To Target: 10% chance: -20 Accuracy Rating for 10 sec",
+      "Having this officer on active duty will grant your energy weapons a chance to reduce the Accuracy of enemy Romulans in Space.<br /> * *Does not affect enemy players.<br /><br /> To Target: 15% chance: -20 Accuracy Rating for 10 sec",
+      "Having this officer on active duty will grant your energy weapons a chance to reduce the Accuracy of enemy Romulans in Space.<br /> * *Does not affect enemy players.<br /><br /> To Target: 20% chance: -20 Accuracy Rating for 10 sec",
+      "Increases your chance to Expose Romulans on Ground Maps.<br /> ** Does not affect enemy players.<br /><br /> Extra 10% chance: Expose vs. Romulans",
+      "Increases your chance to Expose Romulans on Ground Maps.<br /> ** Does not affect enemy players.<br /><br /> Extra 5% chance: Expose vs. Romulans",
+      "Increases your chance to Expose Romulans on Ground Maps.<br /> ** Does not affect enemy players.<br /><br /> Extra 7.5% chance: Expose vs. Romulans"
+     ]
+    },
+    "powertype": {
+     "fill": 0.8188,
+     "types": {
+      "int": 0.8188,
+      "empty": 0.1812
+     },
+     "cardinality": 14,
+     "values": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ]
+    },
+    "quality": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "Blue",
+      "Gold",
+      "Green",
+      "Purple",
+      "Violet",
+      "White"
+     ]
+    },
+    "qualityindex": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    },
+    "rank": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 17,
+     "values": [
+      "Bekk",
+      "Chief Petty Officer",
+      "Civilian",
+      "Crewman",
+      "Daise",
+      "Ensign",
+      "Lieutenant",
+      "Lieutenant Junior Grade",
+      "Master Chief Petty Officer",
+      "Petty Officer",
+      "Senior Chief Specialist",
+      "Senior Specialist",
+      "Sergeant",
+      "Specialist",
+      "Sublieutenant",
+      "Uhlan",
+      "Warrior"
+     ]
+    },
+    "rnd": {
+     "fill": 0.078,
+     "types": {
+      "empty": 0.922,
+      "text": 0.078
+     },
+     "cardinality": 10,
+     "values": [
+      "Aegis",
+      "Beam Weapons",
+      "Cannon Weapons",
+      "Engineering",
+      "Ground Equipment",
+      "Kits and Modules",
+      "Projectile Weapons",
+      "Projectiles",
+      "Science",
+      "Shields"
+     ]
+    },
+    "shipdutytype": {
+     "fill": 0.973,
+     "types": {
+      "text": 0.973,
+      "empty": 0.027
+     },
+     "cardinality": 4,
+     "values": [
+      "Ground",
+      "Ground, Space",
+      "Space",
+      "Space, Ground"
+     ]
+    },
+    "spec": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 50
+    },
+    "species": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 71
+    },
+    "traits": {
+     "fill": 0.9971,
+     "types": {
+      "text": 0.9971,
+      "empty": 0.0029
+     },
+     "cardinality": 857
+    },
+    "uniquepower": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "0",
+      "1"
+     ]
+    }
+   }
+  },
+  "equipment.json": {
+   "rows": 4146,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 2717
+    },
+    "boundto": {
+     "fill": 0.6392,
+     "types": {
+      "text": 0.6392,
+      "empty": 0.3608
+     },
+     "cardinality": 3,
+     "values": [
+      "Account",
+      "Character",
+      "Yes"
+     ]
+    },
+    "boundwhen": {
+     "fill": 0.6392,
+     "types": {
+      "text": 0.6392,
+      "empty": 0.3608
+     },
+     "cardinality": 2,
+     "values": [
+      "Equip",
+      "Pickup"
+     ]
+    },
+    "equiplimit": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 3,
+     "values": [
+      "0",
+      "1",
+      "2"
+     ]
+    },
+    "head1": {
+     "fill": 0.4658,
+     "types": {
+      "empty": 0.5342,
+      "text": 0.4655,
+      "wikitext": 0.0002
+     },
+     "cardinality": 1247
+    },
+    "head10": {
+     "fill": 0.0024,
+     "types": {
+      "empty": 0.9976,
+      "text": 0.0024
+     },
+     "cardinality": 5,
+     "values": [
+      "Activate EV Suit Lights",
+      "Arm Scanner Sweep",
+      "Emergency Cold Fusion Flash",
+      "Improved Flank Damage",
+      "Reaction Thrusters"
+     ]
+    },
+    "head11": {
+     "fill": 0.0014,
+     "types": {
+      "empty": 0.9986,
+      "text": 0.0014
+     },
+     "cardinality": 5,
+     "values": [
+      "Activate EV Suit Lights",
+      "Activate Warp Bubble Rupture",
+      "Reaction Thrusters",
+      "Repulsor Burst",
+      "Torchbearer Assault Squad"
+     ]
+    },
+    "head12": {
+     "fill": 0.0007,
+     "types": {
+      "empty": 0.9993,
+      "text": 0.0007
+     },
+     "cardinality": 1,
+     "values": [
+      "Activate EV Suit Lights"
+     ]
+    },
+    "head2": {
+     "fill": 0.2214,
+     "types": {
+      "empty": 0.7786,
+      "text": 0.2205,
+      "wikitext": 0.001
+     },
+     "cardinality": 457
+    },
+    "head3": {
+     "fill": 0.0439,
+     "types": {
+      "empty": 0.9561,
+      "text": 0.0437,
+      "wikitext": 0.0002
+     },
+     "cardinality": 167
+    },
+    "head4": {
+     "fill": 0.0123,
+     "types": {
+      "empty": 0.9877,
+      "text": 0.0123
+     },
+     "cardinality": 44
+    },
+    "head5": {
+     "fill": 0.0087,
+     "types": {
+      "empty": 0.9913,
+      "text": 0.0087
+     },
+     "cardinality": 27,
+     "values": [
+      "'''Battery Capacitor'''",
+      "'''Engine Capacitor'''",
+      "'''Shield Capacitor'''",
+      "+5 Weapon Power",
+      "<b>Full Impulse</b>",
+      "<font color=#72D9E0>'''Full Impulse'''</font>",
+      "Activate Red Angel Suit",
+      "Bolt Turret Fabrication III",
+      "Chain Web Projection",
+      "Custom Power Rerouting",
+      "Dynamic Warhead - Antiproton Mode",
+      "Eject Terraforming Emulsion",
+      "Evolved Engineering",
+      "Full Impulse",
+      "Improved Singularity Shielding",
+      "Invasive Control Mechanism",
+      "Launch Energy Nullifiers",
+      "Pakled Space Hook - AntiProton",
+      "Plasma Explosion",
+      "Pursuit Mode",
+      "Reaction Thrusters",
+      "Sensor Phantom Projector",
+      "Subatomic Disruptor",
+      "Subspace Fold",
+      "Transmorphic Containment",
+      "Transwarp to Psi Velorum Sector Block",
+      "V.A.T.A. - Chroniton Mode"
+     ]
+    },
+    "head6": {
+     "fill": 0.0104,
+     "types": {
+      "empty": 0.9896,
+      "text": 0.0101,
+      "wikitext": 0.0002
+     },
+     "cardinality": 22,
+     "values": [
+      "'''Battery Capacitor'''",
+      "'''Engine Capacitor'''",
+      "'''Hyper Regenerative Shield Array'''",
+      "'''Kobali Shield Capacitor'''",
+      "'''Shield Capacitor'''",
+      "'''Singularity Auxiliary Capacitor'''",
+      "Activate EV Suit Lights",
+      "Borg Efficiency",
+      "Breen Weapons Capacitor",
+      "Chronogami Displacer",
+      "Cryobarrier Potential",
+      "Custom Power Rerouting - Shields to Bridge",
+      "Full Impulse",
+      "Improved Plasma Shockwave",
+      "Pakled Space Hook - Kinetic",
+      "Parasitic Ice Cluster Munition",
+      "Pentachoric Emitter",
+      "Protomatter Coalescence.",
+      "Reaction Thrusters",
+      "Transwarp to Iota Pacvonis Sector Block<br/>",
+      "Unimatrix Shielding",
+      "Universally Evolved"
+     ]
+    },
+    "head7": {
+     "fill": 0.007,
+     "types": {
+      "empty": 0.993,
+      "text": 0.007
+     },
+     "cardinality": 16,
+     "values": [
+      "'''Engine Capacitor'''",
+      "'''Improved Singularity Overcharge'''",
+      "'''Kobali Shield Capacitor'''",
+      "'''Singularity Engines Capacitor'''",
+      "Activate EV Suit Lights",
+      "Breen Weapons Capacitor",
+      "Burst Turret Fabrication IV",
+      "Custom Power Rerouting - Engine to Bridge",
+      "Full Impulse",
+      "Improved Singularity Overcharge",
+      "Reaction Thrusters",
+      "Reactive Thrusters",
+      "T-88 Efficiency Diagnostic",
+      "Tachyon Inversion Beams",
+      "Trajector Jump",
+      "Weapons Capacitor"
+     ]
+    },
+    "head8": {
+     "fill": 0.006,
+     "types": {
+      "empty": 0.994,
+      "text": 0.006
+     },
+     "cardinality": 15,
+     "values": [
+      "'''Improved Singularity Jump",
+      "'''Singularity Battery Capacitor'''",
+      "Activate EV Suit Lights",
+      "Braydon Enhanced Engines Capacitor",
+      "Custom Power Rerouting - Auxiliary to Bridge",
+      "Damage Bonus",
+      "Distracting Relocation",
+      "Full Impulse",
+      "Hirogen Hunter Sight",
+      "Hyper Regenerative Personal Shield",
+      "Improved Singularity Shielding",
+      "Improves Singularity Jump",
+      "Reaction Thrusters",
+      "Singularity Engines Capacitor",
+      "Trajector Jump"
+     ]
+    },
+    "head9": {
+     "fill": 0.0075,
+     "types": {
+      "empty": 0.9925,
+      "text": 0.0075
+     },
+     "cardinality": 17,
+     "values": [
+      "'''Battery Capacitor'''",
+      "'''Engine Capacitor'''",
+      "'''Shield Capacitor'''",
+      "'''Singularity Battery Capacitor'''",
+      "'''Singularity Engines Capacitor'''",
+      "'''Singularity Shield Capacitor'''",
+      "Activate EV Suit Lights",
+      "Braydon Enhanced Singularity Engines Capacitor",
+      "Cloak And Dagger",
+      "Flamethrower Turret Fabrication V",
+      "Micropulse Overcharge",
+      "Phaser Lotus/Disruptor/Plasma/Polaron Lotus",
+      "Point Jump",
+      "Reaction Thrusters",
+      "Summon to Battle",
+      "Torchbearer Assault Squad",
+      "Trajector Jump"
+     ]
+    },
+    "name": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 4070
+    },
+    "rarity": {
+     "fill": 0.9961,
+     "types": {
+      "text": 0.9961,
+      "empty": 0.0039
+     },
+     "cardinality": 6,
+     "values": [
+      "Common",
+      "Epic",
+      "Rare",
+      "Ultra Rare",
+      "Uncommon",
+      "Very Rare"
+     ]
+    },
+    "subhead1": {
+     "fill": 0.0287,
+     "types": {
+      "empty": 0.9713,
+      "text": 0.0287
+     },
+     "cardinality": 11,
+     "values": [
+      "Delayed Radiation Damage to target of Science Boff Control abilities",
+      "Entropy Consumer",
+      "Exploit Attack",
+      "Exploit attack",
+      "Expose Attack",
+      "Extend Attack",
+      "Options",
+      "Radiation DoT to target of Science Boff Debuff abilities",
+      "Shield Hardening Buff",
+      "Unique",
+      "Unique Options"
+     ]
+    },
+    "subhead10": {
+     "fill": 0.0002,
+     "types": {
+      "empty": 0.9998,
+      "text": 0.0002
+     },
+     "cardinality": 1,
+     "values": [
+      "Expose Attack"
+     ]
+    },
+    "subhead11": {
+     "fill": 0.0,
+     "types": {
+      "empty": 1.0
+     },
+     "cardinality": 0
+    },
+    "subhead12": {
+     "fill": 0.0,
+     "types": {
+      "empty": 1.0
+     },
+     "cardinality": 0
+    },
+    "subhead2": {
+     "fill": 0.1201,
+     "types": {
+      "empty": 0.8799,
+      "text": 0.1201
+     },
+     "cardinality": 21,
+     "values": [
+      "''Exploit Attack''",
+      "''Expose Attack''",
+      "<font color=yellow>Exploit Attack</font>",
+      "<font color=yellow>Expose Attack</font>",
+      "Can only be opened by members of the Federation.",
+      "Can only be opened by members of the Klingon Defense Force.",
+      "Can only be opened by members of the Klingon Empire.",
+      "Can only be opened by members of the Romulan Republic.",
+      "Charges foe & deals massive kinetic damage",
+      "Create Drone that fires when you do",
+      "Delay Incoming Damage",
+      "Exploit Attack",
+      "Exploit attack",
+      "Expose Attack",
+      "Expose attack",
+      "Hull Scraping",
+      "Massive Damage Resistance",
+      "Retaliatory Coronal Shield Ejection",
+      "Select a voucher and use the item to gain access to the special Weekend Event Store",
+      "Siphoning Field",
+      "Submit these merits to your Event reputation to earn great rewards!"
+     ]
+    },
+    "subhead3": {
+     "fill": 0.0051,
+     "types": {
+      "empty": 0.9949,
+      "text": 0.0051
+     },
+     "cardinality": 4,
+     "values": [
+      "''Expose Attack''",
+      "All Power to Engines",
+      "Expose Attack",
+      "Ramming Initiative"
+     ]
+    },
+    "subhead4": {
+     "fill": 0.0012,
+     "types": {
+      "empty": 0.9988,
+      "text": 0.0012
+     },
+     "cardinality": 3,
+     "values": [
+      "Expose Attack",
+      "Full Impulse",
+      "Weapon Capacitor Dampening"
+     ]
+    },
+    "subhead5": {
+     "fill": 0.0012,
+     "types": {
+      "empty": 0.9988,
+      "text": 0.0012
+     },
+     "cardinality": 4,
+     "values": [
+      "Auxiliary Power Buff",
+      "Engine Power Buff",
+      "Expose Attack",
+      "Shield Power Buff"
+     ]
+    },
+    "subhead6": {
+     "fill": 0.0012,
+     "types": {
+      "empty": 0.9988,
+      "text": 0.0012
+     },
+     "cardinality": 4,
+     "values": [
+      "Auxiliary Power Buff",
+      "Engine Power Buff",
+      "Shield Heal and Shield Power Buff (5km)",
+      "Shield Power Buff"
+     ]
+    },
+    "subhead7": {
+     "fill": 0.0012,
+     "types": {
+      "empty": 0.9988,
+      "text": 0.0012
+     },
+     "cardinality": 3,
+     "values": [
+      "All Power to Engines",
+      "All Power to Engines\n: +122.7 Flight Speed\n: Diverts all power to engines",
+      "Shield Heal and Shield Power Buff (5km)"
+     ]
+    },
+    "subhead8": {
+     "fill": 0.0,
+     "types": {
+      "empty": 1.0
+     },
+     "cardinality": 0
+    },
+    "subhead9": {
+     "fill": 0.001,
+     "types": {
+      "empty": 0.999,
+      "text": 0.001
+     },
+     "cardinality": 2,
+     "values": [
+      "Engine Power Buff",
+      "Shield Power Buff"
+     ]
+    },
+    "text1": {
+     "fill": 0.905,
+     "types": {
+      "text": 0.7634,
+      "wikitext": 0.1416,
+      "empty": 0.095
+     },
+     "cardinality": 2925
+    },
+    "text10": {
+     "fill": 0.0031,
+     "types": {
+      "empty": 0.9969,
+      "text": 0.0029,
+      "wikitext": 0.0002
+     },
+     "cardinality": 8,
+     "values": [
+      "'''A Galaxy to Explore'''<br>* Gives bonus crafting materials while mining Dilithium at Vlugta Asteroid Field",
+      "+36 Knockback Resistance Rating\n:",
+      "AoE Cold Damage + Root, Chance to Hold\n: To foes within 6m of target:\n: * ___ Cold every 1 sec for __ sec\n: * Root for sec\n: * 10% chance: Stun for __ sec ''(Half duration vs players)''\n: 30 sec recharge",
+      "Damage Resistance and Stealth Debuff\n: to target: -50 All Damage Resistance Rating for 12 sec\n: to target: -60 Stealth strength for 8 sec\n: to self: +30 Perception for 8 sec\n: 30 sec recharge",
+      "Flanking Damage\n:+25% Bonus All Damage while Flanking",
+      "Spacejump to navigation point up to 45 meters away",
+      "Toggle Lights",
+      "Torchbearer Reinforcements"
+     ]
+    },
+    "text11": {
+     "fill": 0.0017,
+     "types": {
+      "empty": 0.9983,
+      "text": 0.0017
+     },
+     "cardinality": 6,
+     "values": [
+      "Beam in a Torchbearer Assult Squad to assist you in combat for 20 seconds",
+      "Creates a Warp bubble; Radiation Damage; Knockback\n: Creates a Warp Bubble Rupture for 4 sec\n: <font color=#42afca>'''Environmental Suit Warp Bubble'''</font>\n:: ___ Radiation Damage\n:: Placated for 5 sec\n:: Knocks back for +___\n: 35 sec recharge",
+      "Single-target Damage and Knockback\n: <small>15 meter range</small>\n: 161.5 Kinetic Damage (50% Shield penetration)\n: Knocks back +18 meters\n: 10 sec recharge",
+      "Spacejump to navigation point up to 45 meters away",
+      "Toggle Lights",
+      "Torchbearer Reinforcements"
+     ]
+    },
+    "text12": {
+     "fill": 0.0012,
+     "types": {
+      "empty": 0.9988,
+      "text": 0.0012
+     },
+     "cardinality": 3,
+     "values": [
+      "1 min 10 sec recharge",
+      "Beam in a Torchbearer Assult Squad to assist you in combat for 20 seconds",
+      "Toggle Lights"
+     ]
+    },
+    "text2": {
+     "fill": 0.4257,
+     "types": {
+      "empty": 0.575,
+      "text": 0.3816,
+      "wikitext": 0.0434
+     },
+     "cardinality": 1380
+    },
+    "text3": {
+     "fill": 0.1604,
+     "types": {
+      "empty": 0.8411,
+      "text": 0.1315,
+      "wikitext": 0.0275
+     },
+     "cardinality": 543
+    },
+    "text4": {
+     "fill": 0.0926,
+     "types": {
+      "empty": 0.9079,
+      "text": 0.0728,
+      "wikitext": 0.0193
+     },
+     "cardinality": 320
+    },
+    "text5": {
+     "fill": 0.0557,
+     "types": {
+      "empty": 0.9443,
+      "text": 0.0441,
+      "wikitext": 0.0116
+     },
+     "cardinality": 188
+    },
+    "text6": {
+     "fill": 0.035,
+     "types": {
+      "empty": 0.965,
+      "text": 0.0306,
+      "wikitext": 0.0043
+     },
+     "cardinality": 110
+    },
+    "text7": {
+     "fill": 0.0219,
+     "types": {
+      "empty": 0.9781,
+      "text": 0.0195,
+      "wikitext": 0.0024
+     },
+     "cardinality": 73
+    },
+    "text8": {
+     "fill": 0.015,
+     "types": {
+      "empty": 0.985,
+      "text": 0.0128,
+      "wikitext": 0.0022
+     },
+     "cardinality": 51
+    },
+    "text9": {
+     "fill": 0.0101,
+     "types": {
+      "empty": 0.9899,
+      "text": 0.0075,
+      "wikitext": 0.0027
+     },
+     "cardinality": 32,
+     "values": [
+      "(+50% Run Speed while Stealthed)\n<br /><br />\nPart of set Furtive Perseverance‎ (0/3)",
+      "+10% Run Speed",
+      "+15 [[Engine Power]] Setting for 10 sec\n:Repairs disabled Engines",
+      "+36 Knockback Resistance Rating\n:",
+      "+36 Root Resistance Rating",
+      "+69.6 Kit Readiness\n:''(Improves Kit Module Cooldowns)''",
+      "+_ Root Resistance Rating<br>+_ Knockback Resistance Rating<br>+_% Health Regeneration",
+      ": *+___ Stealth for 15 sec\n: *Amplifies your Polaron Damage and Run Speed by 15% for 15 sec\n: *Allows you to use Frigid Martial Strikes for 15 sec\n: *This ability requires 60 seconds to recharge between uses.",
+      ":+396.9 Shield Regeneration\n:+15 [[Shield Power]] Setting for 10 sec\n:Repairs disabled shields",
+      ":Drains your Singularity power to augment your [[Engine Power]].\n:Repairs offline engines subsystem.\n:Gives up to 30 [[Engine Power]], based on your Singularity level.\n:4 min recharge",
+      ":Drains your Singularity power to augment your [[Shield Power]].\n:+28.1 Shield Regeneration\n:Gives up to 30 [[Shield Power]] based on your Singularity level.\n:Repairs disabled shields",
+      "Auxiliary Batteries provide a short duration increase to your auxiliary power level. Repairs offline auxiliary subsystems.\n: Targets Self\n: 4 min recharge\n: Repairs disabled auxiliary systems\n: +15 [[Auxiliary Power]] Setting for 10 sec\n:",
+      "Auxiliary Power Buff\n: Drains your Singularity power to augment your Auxiliary power.\n: Repairs disabled auxiliary systems\n: Gives up to 30 Auxiliary power, based on your Singularity level.\n: 4 min recharge\n:",
+      "Cone Heavy Phaser/Disruptor/Plasma/Polaron Attack\n: 240' targeting arc\n: To Target: ___ Phaser/Disruptor/Plasma/Polaron Damage x 8 pulses (Max 3 targets/pulse)\n: To Target: 2.5% Chance: Disable 1 Subsystem for 5 sec\n: To Self: After firing sequence is complete, -75 Current Weapon Power",
+      "Create Energy Turret\n: Creates a level __ Flamethrower Turret for 180 sec\n: Long-Range Attack: _____ Damage x4 (___ DPS)\n: Close-Range Attack: _____ Damage x7 (___ DPS) in a 45 degree cone",
+      "Deploy a Holographic Distraction which taunts nearby enemies, while simultaniously (sic) teleporting backwards to safety. <br/>\n:Targets Self\n:45 sec recharge\n: Creates a Holographic Distraction for 6 sec that taunts enemies within 15 meters\n: Placate enemies within 15 meters and Teleport backwards a short distance.",
+      "Drains your Singularity power to augment your Engine power.\n: Repairs disabled Engines\n: Gives up to 30 Engine power, based on your Singularity level.",
+      "Engine Power Buff\n:Repairs offline engines subsystem\n:+15 [[Engine Power]] Setting for 10 sec\n:4 min recharge",
+      "Engine Power Buff to team\n: Drains your Singularity power to augment your Engine power.\n: Cleanses movement debuffs.\n: Repairs offline engines subsystem\n: Gives up to 30 Engine power, based on your Singularity level.\n: 4 min recharge",
+      "Grants Perfect Perception\n: +500 Perception for up to 20 seconds (Toggle)",
+      "Reduces Antiproton Damage to Shields by 20%",
+      "Reduces Damage to Shields by 25% for 10 sec",
+      "Reduces Tetryon Damage to Shields by 20%",
+      "Shield Power Buff\n:+262.5 Shield Regeneration\n:+15 Shield Power Setting for 10 sec\n:Repairs offline shield systems\n:4 min recharge",
+      "Shield Power Buff\n:+___ Shield Regeneration\n:+15 Shield Power Setting for 10 sec\n:Repairs offline shield systems\n:4 min recharge",
+      "Spacejump to navigation point up to 45 meters away",
+      "Speedboost and damaging shockwave\n: to self: -75% Flight Turn Rate for 4 Sec\n: to self: +400% Flight Speed for 4 Sec\n: After 4 sec, to self:-100 current Engine Power (Does not apply with the 4 piece bonus)\n: To enemies in a cone behind you: _____ Plasma Damage\n:Enemies in a cone behind you are knocked back (Only applies with the 4 piece bonus)\n:2 min Recharge",
+      "Summon Allied Aetherian Drones\n: Spawns an Aetherian Interference and Shielding Drone which fight by your side for 60 sec\n: 2 min recharge",
+      "Teleport\n: To self: Teleport Approximately 4km forward in front of your target\n: To self: +X Stealth for 2 sec\n: To self: Roots for 1 sec\n: To self: +X Temporary Hit Points for 10 sec ''(Only applies with 4pc bonus)''\n: To enemies within 5km: -15% [[Skill: Shield Hardness|Shield Hardness]] for 10 sec ''(Only applies with 4pc bonus)''\n: ''2 min recharge with 4 pc bonus''\n: 4 min recharge",
+      "Toggle Lights",
+      "Trajector Warp Core: Self Teleport\n: to self: teleport 5km forward of your current facing.\n: +4,755 Stealth for 2 sec",
+      "Trajector Warp Core: Self Teleport\n: to self: teleport 5km forward of your current facing.\n: +4755 Stealth for 2sec"
+     ]
+    },
+    "ttext": {
+     "fill": 0.124,
+     "types": {
+      "empty": 0.876,
+      "wikitext": 0.0902,
+      "text": 0.0338
+     },
+     "cardinality": 391
+    },
+    "type": {
+     "fill": 0.9727,
+     "types": {
+      "text": 0.9727,
+      "empty": 0.0273
+     },
+     "cardinality": 38,
+     "values": [
+      "Body Armor",
+      "Consumable",
+      "Crafting Materials",
+      "EV Suit",
+      "Emote",
+      "Experimental Weapon",
+      "Ground Ability",
+      "Ground Armor",
+      "Ground Device",
+      "Ground Weapon",
+      "Hangar Bay",
+      "Impulse Engine",
+      "Inventory",
+      "Kit",
+      "Kit Module",
+      "Kit Modules",
+      "Mission Reward",
+      "Personal Shield",
+      "Schematic",
+      "Ship Aft Weapon",
+      "Ship Deflector Dish",
+      "Ship Device",
+      "Ship Engineering Console",
+      "Ship Fore Weapon",
+      "Ship Science Console",
+      "Ship Secondary Deflector",
+      "Ship Shields",
+      "Ship Tactical Console",
+      "Ship Vanity Shield",
+      "Ship Vanity Shields",
+      "Ship Weapon",
+      "Shuttle Weapon",
+      "Singularity Engine",
+      "Sniper Rifle",
+      "Token",
+      "Universal Console",
+      "Warp Engine",
+      "inventory"
+     ]
+    },
+    "who": {
+     "fill": 0.1558,
+     "types": {
+      "empty": 0.8442,
+      "text": 0.1553,
+      "wikitext": 0.0005
+     },
+     "cardinality": 120
+    }
+   }
+  },
+  "modifiers.json": {
+   "rows": 267,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 12,
+     "values": [
+      "Template:Modifiers/Consoles",
+      "Template:Modifiers/Deflector Dish",
+      "Template:Modifiers/Environmental Suit",
+      "Template:Modifiers/Ground Weapon",
+      "Template:Modifiers/Impulse Engine",
+      "Template:Modifiers/Kit",
+      "Template:Modifiers/Personal Armor",
+      "Template:Modifiers/Personal Shield",
+      "Template:Modifiers/Secondary Deflector",
+      "Template:Modifiers/Ship Shields",
+      "Template:Modifiers/Ship Weapons",
+      "Warp Core"
+     ]
+    },
+    "available": {
+     "fill": 0.3783,
+     "types": {
+      "empty": 0.6217,
+      "text": 0.3783
+     },
+     "cardinality": 49
+    },
+    "info": {
+     "fill": 0.2247,
+     "types": {
+      "empty": 0.7753,
+      "text": 0.1536,
+      "wikitext": 0.0712
+     },
+     "cardinality": 40,
+     "values": [
+      "'''Battery Capacitor:''' <br>Auxiliary Power Buff<br>Repairs offline auxiliary systems<br>+15 Auxiliary Power Setting for 10 sec<br>4 min recharge",
+      "'''Engines Capacitor:''' <br>Engine Power Buff<br>Repairs offline engines subsystem<br>+15 Engine Power Setting for 10 sec<br>4 min recharge",
+      "'''Shield Capacitor:''' <br>Shield Power Buff<br>+__ Shield Regeneration<br>Repairs offline shield systems<br>+15 Shield Power Setting for 10 sec<br>4 min recharge",
+      "'''Weapons Capacitor:''' <br>Weapon Power Buff<br>Repairs offline shield systems<br>+__ Shield Regeneration<br>+15 Shield Power Setting for 10 sec<br>4 min recharge",
+      "* Sets Torpedo firing arc to 180°\n* Sets Dual Heavy Cannon firing arc to 90°\n* Also present on Omni-Directional Beam Arrays",
+      "Available as standard modifier on EV Suits and on certain special Body Armors.",
+      "Available as standard modifier on the [[Adapted M.A.C.O. Combat Impulse Engines]] and [[Klingon Honor Guard Impulse Engines]]. Integrated into [[Adapted K.H.G. Impulse Engines]] and [[M.A.C.O. Impulse Engines]].",
+      "Available on Crafted Impulse engines. Cannot be re-engineered.",
+      "Available on crafted Shields. Cannot be re-engineered",
+      "Can appear multiple times on certain special deflectors like the [[Bajor Defense Set#Bajor Defense Deflector Array|Bajor Defense Deflector Array]].",
+      "Cannot be re-engineered",
+      "Cannot be re-engineered.",
+      "Epic Modifier",
+      "Exclusive to Elite Fleet Colony Energy Dampening Armor.",
+      "Exclusive to Elite Fleet Colony Polyalloy Weave Armor.",
+      "Exclusive to Elite Fleet Colony Polyalloy Weave and Energy Dampening Armor",
+      "Exclusive to Elite Fleet Polyalloy Weave and Energy Dampening Armor.",
+      "Exclusive to crafted ground weapons. Cannot be re-engineered.",
+      "Found on [[Fleet Ground Weapons#Elite Fleet Federation Ground Weapons|Elite Fleet Federation Ground Weapons]].",
+      "Found on [[Fleet Ground Weapons#Elite Fleet Klingon Empire Ground Weapons|Elite Fleet Klingon Empire Ground Weapons]]",
+      "Found on [[Nukara Strikeforce Equipment Requisition]] ground weapons.",
+      "Found on [[Task Force Omega Equipment Requisition]] ground weapons.",
+      "Found on various Fleet ground weapons, as well as on some space weapons (e.g. [[Advanced Phaser Beam Array]]) and experimental weapons (e.g. [[Experimental Flak Shot Artillery]])",
+      "Integrated into [[Dynamic Reroute Impulse Engines]]",
+      "Only available on Fleet deflector arrays.",
+      "Only available on Mk 0-III ranged ground weapons. Becomes [DoT2] when upgraded to Mk IV.",
+      "Only available on Mk 0-III ranged ground weapons. Becomes [KB2] when upgraded to Mk IV.",
+      "Only available on Mk IV-VII ranged ground weapons. Becomes [DoT3] when upgraded to Mk VIII.",
+      "Only available on Mk VIII-XV ranged ground weapons.",
+      "Only available on [[Fleet Personal Shields#Elite Fleet Adaptive Personal Shields|Elite Fleet Adaptive Personal Shields]].",
+      "Only available on [[Fleet Personal Shields#Elite Fleet Colony Personal Shields|Elite Fleet Colony Personal Shields]].",
+      "Only available on [[Fleet Personal Shields]].",
+      "Only available on [[Fleet Space Shields#Elite Fleet Space Shields|Elite Fleet Shield Arrays]]",
+      "Only available on crafted beam weapons.",
+      "Only available on crafted cannon weapons.",
+      "Only available on crafted weapons.",
+      "This deals 15 base damage and scales only with sources of All Damage boosts.",
+      "This modifier is available on [[Fleet Deflector Array#Elite Fleet Protomatter Deflector Arrays|Elite Fleet Protomatter Deflector Arrays]] which can be obtained from a [[Fleet Colony World]] with Renewable Energy Tier III.",
+      "This modifier is restricted to two copies per item.",
+      "This modifier is unique to the Vulcan Lirpa that can be obtained from  [[Mission: Hearts and Minds|“Hearts and Minds”]]."
+     ]
+    },
+    "isepic": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "0",
+      "1"
+     ]
+    },
+    "isunique": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "0",
+      "1"
+     ]
+    },
+    "modifier": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 229
+    },
+    "stats": {
+     "fill": 0.9963,
+     "types": {
+      "text": 0.8015,
+      "wikitext": 0.1948,
+      "empty": 0.0037
+     },
+     "cardinality": 250
+    },
+    "type": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 28,
+     "values": [
+      "Body Armor",
+      "Body Armor,EV Suit,Ground Weapon,Kit,Personal Shield,Ship Aft Weapon,Ship Weapon",
+      "EV Suit",
+      "EV Suit,Body Armor",
+      "Ground Weapon",
+      "Ground Weapon,Experimental Weapon,Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+      "Ground Weapon,Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+      "Impulse Engine",
+      "Kit",
+      "Personal Shield",
+      "Personal Shield,Body Armor,EV Suit",
+      "Personal Shield,Ship Shields",
+      "Ship Deflector Dish",
+      "Ship Deflector Dish,Ship Secondary Deflector",
+      "Ship Engineering Console",
+      "Ship Engineering Console,Ship Science Console",
+      "Ship Engineering Console,Ship Science Console,Ship Tactical Console",
+      "Ship Fore Weapon,Ship Weapon",
+      "Ship Science Console",
+      "Ship Secondary Deflector",
+      "Ship Shields",
+      "Ship Tactical Console",
+      "Ship Weapon,Ship Aft Weapon",
+      "Ship Weapon,Ship Fore Weapon",
+      "Ship Weapon,Ship Fore Weapon,Ship Aft Weapon",
+      "Singularity Engine",
+      "Warp Engine",
+      "Warp Engine,Singularity Engine"
+     ]
+    }
+   }
+  },
+  "ship_list.json": {
+   "rows": 797,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 797
+    },
+    "abilities": {
+     "fill": 0.9423,
+     "types": {
+      "text": 0.9423,
+      "empty": 0.0577
+     },
+     "cardinality": 582
+    },
+    "admiraltyeng": {
+     "fill": 0.9987,
+     "types": {
+      "int": 0.9987,
+      "empty": 0.0013
+     },
+     "cardinality": 74
+    },
+    "admiraltysci": {
+     "fill": 0.9987,
+     "types": {
+      "int": 0.9987,
+      "empty": 0.0013
+     },
+     "cardinality": 72
+    },
+    "admiraltytac": {
+     "fill": 0.9987,
+     "types": {
+      "int": 0.9987,
+      "empty": 0.0013
+     },
+     "cardinality": 75
+    },
+    "aft": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    },
+    "boffs": {
+     "fill": 0.9962,
+     "types": {
+      "text": 0.9962,
+      "empty": 0.0038
+     },
+     "cardinality": 468
+    },
+    "consoleseng": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    },
+    "consolessci": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    },
+    "consolestac": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    },
+    "cost": {
+     "fill": 0.9749,
+     "types": {
+      "text": 0.9749,
+      "empty": 0.0251
+     },
+     "cardinality": 73
+    },
+    "devices": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 5,
+     "values": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    },
+    "displayclass": {
+     "fill": 0.9009,
+     "types": {
+      "text": 0.9009,
+      "empty": 0.0991
+     },
+     "cardinality": 510
+    },
+    "displayprefix": {
+     "fill": 0.4994,
+     "types": {
+      "empty": 0.5006,
+      "text": 0.4994
+     },
+     "cardinality": 84
+    },
+    "displaytype": {
+     "fill": 0.9812,
+     "types": {
+      "text": 0.9812,
+      "empty": 0.0188
+     },
+     "cardinality": 343
+    },
+    "equipcannons": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "no",
+      "yes"
+     ]
+    },
+    "experimental": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "0",
+      "1"
+     ]
+    },
+    "facsort": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 12,
+     "values": [
+      "a",
+      "abcd",
+      "acd",
+      "ad",
+      "b",
+      "bcd",
+      "bd",
+      "c",
+      "cabd",
+      "d",
+      "dabc",
+      "dcba"
+     ]
+    },
+    "faction": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 11,
+     "values": [
+      "Dominion",
+      "Dominion,United Federation of Planets,Klingon Empire,Romulan Republic",
+      "Klingon Empire",
+      "Klingon Empire,Dominion",
+      "Klingon Empire,Romulan Republic,Dominion",
+      "Romulan Republic",
+      "Romulan Republic,United Federation of Planets,Klingon Empire,Dominion",
+      "United Federation of Planets",
+      "United Federation of Planets,Dominion",
+      "United Federation of Planets,Klingon Empire,Romulan Republic,Dominion",
+      "United Federation of Planets,Romulan Republic,Dominion"
+     ]
+    },
+    "factionlede": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 5,
+     "values": [
+      "Cross-Faction",
+      "Dominion",
+      "Federation",
+      "Klingon Empire",
+      "Romulan Republic"
+     ]
+    },
+    "fc": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "0",
+      "1"
+     ]
+    },
+    "fore": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 4,
+     "values": [
+      "2",
+      "3",
+      "4",
+      "5"
+     ]
+    },
+    "hangars": {
+     "fill": 0.2246,
+     "types": {
+      "empty": 0.7754,
+      "int": 0.2246
+     },
+     "cardinality": 2,
+     "values": [
+      "1",
+      "2"
+     ]
+    },
+    "hull": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 151
+    },
+    "hullmod": {
+     "fill": 1.0,
+     "types": {
+      "float": 0.9435,
+      "int": 0.0565
+     },
+     "cardinality": 93
+    },
+    "image": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 704
+    },
+    "image2": {
+     "fill": 0.1669,
+     "types": {
+      "empty": 0.8331,
+      "text": 0.1669
+     },
+     "cardinality": 117
+    },
+    "impulse": {
+     "fill": 0.9887,
+     "types": {
+      "float": 0.9887,
+      "empty": 0.0113
+     },
+     "cardinality": 24,
+     "values": [
+      "0.12",
+      "0.125",
+      "0.13",
+      "0.14",
+      "0.15",
+      "0.16",
+      "0.17",
+      "0.1777",
+      "0.18",
+      "0.185",
+      "0.19",
+      "0.2",
+      "0.21",
+      "0.215",
+      "0.22",
+      "0.23",
+      "0.24",
+      "0.25",
+      "0.26",
+      "0.27",
+      "0.28",
+      "0.3",
+      "0.32",
+      "0.33"
+     ]
+    },
+    "inertia": {
+     "fill": 0.9573,
+     "types": {
+      "int": 0.9573,
+      "empty": 0.0427
+     },
+     "cardinality": 23,
+     "values": [
+      "100",
+      "15",
+      "18",
+      "20",
+      "200",
+      "25",
+      "30",
+      "33",
+      "35",
+      "38",
+      "39",
+      "40",
+      "45",
+      "50",
+      "55",
+      "60",
+      "65",
+      "70",
+      "75",
+      "80",
+      "85",
+      "90",
+      "95"
+     ]
+    },
+    "internalname": {
+     "fill": 0.0276,
+     "types": {
+      "empty": 0.9724,
+      "text": 0.0276
+     },
+     "cardinality": 21,
+     "values": [
+      "Ship_Fed_FC11_Type2",
+      "Ship_Fed_FC13_Type1",
+      "Ship_Fed_FC13_Type2",
+      "Ship_Fed_FC14_Type1",
+      "Ship_Fed_FC14_Type2",
+      "Ship_Fed_FC30_Type1",
+      "Ship_Fed_FC8_Type1",
+      "Ship_Fed_FC8_Type3",
+      "Ship_Fed_FC8_Type4",
+      "Ship_Fed_FF6_Type1",
+      "Ship_Fed_FF6_Type2",
+      "Ship_Fed_Fc10_Type1",
+      "Ship_Fed_Fc10_Type2",
+      "Ship_Fed_Fc11_Type1",
+      "Ship_Fed_Fc11_Type2_Mirror",
+      "Ship_Fed_Fc33_Type1",
+      "Ship_Fed_Fc4_Type1_Mirror",
+      "Ship_Kfa_Kfae2_Type1",
+      "Ship_Rmn_Re6_Type1",
+      "Ship_Ter_Ted1_Type1",
+      "Ship_Ter_Ted1_Type2"
+     ]
+    },
+    "name": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 797
+    },
+    "powerall": {
+     "fill": 0.1079,
+     "types": {
+      "empty": 0.8921,
+      "int": 0.1079
+     },
+     "cardinality": 3,
+     "values": [
+      "0",
+      "3",
+      "5"
+     ]
+    },
+    "powerauxiliary": {
+     "fill": 0.3952,
+     "types": {
+      "empty": 0.6048,
+      "int": 0.3952
+     },
+     "cardinality": 4,
+     "values": [
+      "10",
+      "15",
+      "20",
+      "5"
+     ]
+    },
+    "powerboost": {
+     "fill": 0.9762,
+     "types": {
+      "int": 0.9762,
+      "empty": 0.0238
+     },
+     "cardinality": 9,
+     "values": [
+      "0",
+      "10",
+      "12",
+      "15",
+      "20",
+      "25",
+      "30",
+      "40",
+      "5"
+     ]
+    },
+    "powerengines": {
+     "fill": 0.4178,
+     "types": {
+      "empty": 0.5822,
+      "int": 0.4178
+     },
+     "cardinality": 3,
+     "values": [
+      "10",
+      "15",
+      "5"
+     ]
+    },
+    "powershields": {
+     "fill": 0.2522,
+     "types": {
+      "empty": 0.7478,
+      "int": 0.2522
+     },
+     "cardinality": 3,
+     "values": [
+      "10",
+      "15",
+      "5"
+     ]
+    },
+    "powerweapons": {
+     "fill": 0.6851,
+     "types": {
+      "int": 0.6851,
+      "empty": 0.3149
+     },
+     "cardinality": 4,
+     "values": [
+      "10",
+      "15",
+      "20",
+      "5"
+     ]
+    },
+    "rank": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 14,
+     "values": [
+      "Brigadier General",
+      "Captain",
+      "Centurion",
+      "Commander",
+      "Fourth",
+      "Honored First",
+      "Lieutenant",
+      "Lieutenant Commander",
+      "Lieutenant General",
+      "Master First",
+      "Rear Admiral",
+      "Subadmiral I",
+      "Subcommander",
+      "Vice Admiral"
+     ]
+    },
+    "ranklevel": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "1",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
+     ]
+    },
+    "released": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 254
+    },
+    "secdeflector": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "0",
+      "1"
+     ]
+    },
+    "shieldmod": {
+     "fill": 1.0,
+     "types": {
+      "float": 0.8494,
+      "int": 0.1506
+     },
+     "cardinality": 63
+    },
+    "t5uconsole": {
+     "fill": 0.1769,
+     "types": {
+      "empty": 0.8231,
+      "text": 0.1769
+     },
+     "cardinality": 3,
+     "values": [
+      "eng",
+      "sci",
+      "tac"
+     ]
+    },
+    "tier": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 6,
+     "values": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+     ]
+    },
+    "turnrate": {
+     "fill": 1.0,
+     "types": {
+      "int": 0.8934,
+      "float": 0.1066
+     },
+     "cardinality": 44
+    },
+    "type": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 38,
+     "values": [
+      "Battlecruiser",
+      "Battlecruiser /Freighter",
+      "Carrier Warbird",
+      "Cruiser",
+      "Destroyer",
+      "Dreadnought Carrier",
+      "Dreadnought Cruiser",
+      "Dreadnought Warbird",
+      "Engineering Carrier",
+      "Escort",
+      "Escort Carrier",
+      "Flight Deck Carrier",
+      "Flight Deck Raptor",
+      "Freighter",
+      "Frigate",
+      "Heavy Dreadnought Cruiser",
+      "Heavy Dreadnought Warbird",
+      "Juggernaut",
+      "Multi-Mission Cruiser",
+      "Multi-Mission Science Vessel",
+      "Raider",
+      "Raptor",
+      "Science Carrier",
+      "Science Destroyer",
+      "Science Destroyer Warbird",
+      "Science Dreadnought",
+      "Science Spearhead",
+      "Science Vessel",
+      "Science Warship",
+      "Scout Ship",
+      "Small Craft",
+      "Strike Wing Escort",
+      "Tactical Carrier Warbird",
+      "Warbird",
+      "Warbird Battlecruiser",
+      "Warbird Destroyer",
+      "Warbird Science Vessel",
+      "Warship"
+     ]
+    },
+    "uniconsole": {
+     "fill": 0.6474,
+     "types": {
+      "text": 0.6474,
+      "empty": 0.3526
+     },
+     "cardinality": 422
+    },
+    "upgradecost": {
+     "fill": 0.1782,
+     "types": {
+      "empty": 0.8218,
+      "text": 0.1782
+     },
+     "cardinality": 2,
+     "values": [
+      "free",
+      "paid"
+     ]
+    }
+   }
+  },
+  "specializations.json": {
+   "rows": 273,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 51
+    },
+    "blue": {
+     "fill": 0.5311,
+     "types": {
+      "empty": 0.4689,
+      "wikitext": 0.4029,
+      "text": 0.1282
+     },
+     "cardinality": 143
+    },
+    "department": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 7,
+     "values": [
+      "Civilian department",
+      "Engineering department",
+      "Medical department",
+      "Operations department",
+      "Science department",
+      "Security department",
+      "Tactical department"
+     ]
+    },
+    "description": {
+     "fill": 0.978,
+     "types": {
+      "text": 0.9744,
+      "empty": 0.022,
+      "wikitext": 0.0037
+     },
+     "cardinality": 245
+    },
+    "gold": {
+     "fill": 0.0366,
+     "types": {
+      "empty": 0.9634,
+      "wikitext": 0.0293,
+      "text": 0.0073
+     },
+     "cardinality": 9,
+     "values": [
+      "Chance to beam down Watcher Robots when Security Team is used.<br><br>20% chance: Beam down two level 66 Watcher Robots crew.",
+      "Chance to create Seismic Agitation Field when Tricorder Scan is used.<br><br>20% Chance to create a Seismic Agitation Field for 20 sec",
+      "Having this officer on active duty will increase all of your damage output when in combat versus any enemy on both Space and Ground Maps.<br /><br />Stacks with other Warfare Duty Officers.<br />+10% All Damage.",
+      "Increases the amount of earned Expertise, Experience Points, and Specialization XP from most sources by 5%.<br /><br />This officers does not count toward the limit for number of Consultants of Active Duty.",
+      "On use of any hypo, provides a chance to activate an EMH Mk I who will heal you and your allies for a while before deactivating.<br /><br /> 25% chance: Activate an EMH Mk I to provide medical support",
+      "Recharge time reduced for Engineering Team by 15 sec and Buff to Starship Hull Repair when use of Engineering Team<br><br>20% chance: After 5 sec, apply Engineering Team I again (may recurse)<br> * +10 Starship Hull Restoration<br />  ''(Improves Hull Healing)'' for 15 sec<br>After Activating Engineering Team:<br /> * Reduces Engineering Team's recharge time by 15 sec",
+      "Reduce recharge time for Attack Pattern Beta by 15%.<br><br>Recharge time reduced by 15%<br><br>Your Attack Pattern Beta power has a chance to restore a small portion of your hull when firing energy weapons.<br>While under the effects of Attack Pattern: Beta, each weapon fired has a 50% chance to restore 0.2% of your Max Hull<br><br>20% chance: Activate Fire at Will I with Attack Pattern Beta ''(Max. over 30 seconds)''<br>20% chance: Activate Fire at Will with Attack Pattern Beta",
+      "Reduce the time for Evasive Maneuvers to recharge after use by 4 to 10 sec.<br><br>Additional +25 to Accuracy for 8 sec (based on current speed: 0)<br>Improve recharge time by 4 to 10 sec",
+      "the in-game description for gold quality"
+     ]
+    },
+    "green": {
+     "fill": 0.5348,
+     "types": {
+      "empty": 0.4652,
+      "wikitext": 0.4066,
+      "text": 0.1282
+     },
+     "cardinality": 143
+    },
+    "name": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 51
+    },
+    "powerid": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 273
+    },
+    "powertype": {
+     "fill": 0.978,
+     "types": {
+      "int": 0.978,
+      "empty": 0.022
+     },
+     "cardinality": 14,
+     "values": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ]
+    },
+    "purple": {
+     "fill": 0.8205,
+     "types": {
+      "wikitext": 0.685,
+      "empty": 0.1795,
+      "text": 0.1355
+     },
+     "cardinality": 220
+    },
+    "shipdutytype": {
+     "fill": 0.978,
+     "types": {
+      "text": 0.978,
+      "empty": 0.022
+     },
+     "cardinality": 4,
+     "values": [
+      "Ground",
+      "Ground, Space",
+      "Space",
+      "Space, Ground"
+     ]
+    },
+    "violet": {
+     "fill": 0.1245,
+     "types": {
+      "empty": 0.8755,
+      "wikitext": 0.1099,
+      "text": 0.0147
+     },
+     "cardinality": 33,
+     "values": [
+      "4% chance: +1% Critical Chance buff to self for 15 sec (Stacks up to 3 times)",
+      "Activating a Bridge Officer ability of Commander rank has a chance to apply a stacking boost to most Skills.<br><br><u>25% chance</u>: When activating Commander Bridge Officer Abilities, gain +2 to Most Starship Skills for 15 sec ''(stacks up to 10 times)''",
+      "Adds Electrical Damage to Stasis Field. This damage will not occur if the target is currently immune to or highly resistant to Stasis Field. This damage will not break the Stasis Field.<br><br> 4.7 Electrical Damage every 1 second for 20 sec.",
+      "Adds a chance to instantly restore a portion of your maximum hull capacity each time you activate Feedback Pulse or Reverse Shield Polarity.<br /><br /> 20% chance: +X Hull (2% of max) when activating Feedback Pulse or Reverse Shield Polarity",
+      "Any time you activate a Science Kit healing power you have a chance of reducing any remaining cooldowns on all other Science Kit healing powers.<br /><br /> ''Medical Tricorder, Triage, Hypospray: Dylovene, Nanite Health Monitor and Vascular Regenerator''<br /><br /> 20% chance: Reduce cooldown on Science Kit healing powers by -5 sec",
+      "Bridge Officer power recharges reduced by 10% after activating Auxiliary Power to the Emergency Battery.",
+      "Chance to beam down additional Kentari security escorts when Security Team is used.<br><br>20% chance: Beam down an additional two level 66 Kentari Security Escort Ill crew.",
+      "Each time a torpedo weapon is activated, you have a chance to apply a boost to torpedo damage for 15 seconds. This boost may stack up to 3 times.<br /><br /> 20% chance: +5% Kinetic Damage Bonus with Torpedoes for 15 sec (can stack 3 times)",
+      "Each time you fire on a foe with an Exploit Attack, you have a chance to cause a small radiation explosion at the target to deal extra damage to them and any other nearby foes.<br /><br /> 10% chance: 5m radius at target:<br /> 8 - 39.8 Radiation Damage (Split among primary target and up to 4 other foes)",
+      "Grants a chance to reduce the cooldown on Bridge Officer and Captain hull heal powers by 5 seconds, when activating any shield heal.<br /><br /> 25% chance: Reduce cooldown on Hull Heal powers by -5 sec",
+      "Having this officer equipped replaces the Push component of your Tractor Beam Repulsors ability with a Pull component of 50% of the original Repel magnitude.<br /><br />Changes your Tractor Beam Repulsors from a Push into a Pull",
+      "Na'kuhl Warfare Specialists assist in combat by applying a portion of your outgoing damage as healing. Damage-over-time effects do not trigger the healing or consume charges.<br /><br /> When activating Engineering Bridge Officer Abilities, 20% chance: 10% of next 10 sources of outgoing damage applied as Hull Healing",
+      "Na'kuhl Warfare Specialists assist in combat by applying a portion of your outgoing damage as healing. Damage-over-time effects do not trigger the healing or consume charges.<br /><br /> When activating Ground Captain Abilities. 20% chance: 20% of next 5 sources of outgoing damage applied as Hitpoint Healing",
+      "Na'kuhl Warfare Specialists assist in combat by applying a portion of your outgoing damage as healing. Damage-over-time effects do not trigger the healing or consume charges.<br /><br /> When activating Ground Kit Abilities. 20% chance: 20% of next 5 sources of outgoing damage applied as Hitpoint Healing",
+      "Na'kuhl Warfare Specialists assist in combat by applying a portion of your outgoing damage as healing. Damage-over-time effects do not trigger the healing or consume charges.<br /><br /> When activating Science Bridge Officer Abilities, 20% chance: 10% of next 10 sources of outgoing damage applied as Hull Healing",
+      "Na'kuhl Warfare Specialists assist in combat by applying a portion of your outgoing damage as healing. Damage-over-time effects do not trigger the healing or consume charges.<br /><br /> When activating Tactical Bridge Officer Abilities, 20% chance: 10% of next 10 sources of outgoing damage applied as Hull Healing",
+      "Reduces the recharge time of using ground combat pet devices and security team consumables.<br /><br /> +50% Cooldown Rate",
+      "This officer grants a small radius AOE Shield Heal to up to 5 nearby allies whenever you activated Resonant Tachyon Stream.<br /><br /> +X Shield Regeneration to up to 5 teammates within 10m",
+      "This officer offers a chance of significantly reducing the recharge timer on Call Emergency Artillery, each time that power is activated.<br /><br /> 20% chance: Improve recharge time by -30 sec",
+      "This officer provides a chance to increase the damage of all your starship's weapons each second while Lock Trajectory is active. This effect can only ever be active a single time, but having multiple of this officer type equipped provides more opportunities for the effect to activate.<br /><br /> While Lock Trajectory active, each second 25% chance: +20% Bonus All Damage to All Weapons for 1 sec",
+      "When activating any damaging non-weapon Bridge Officer ability, there is a chance that your outgoing threat will be reduced dramatically for a short amount of time.<br /><br /> 10% chance: -50% Threat Generation for 10 sec",
+      "When activating any damaging non-weapon Bridge Officer ability, there is a chance to gain an Accuracy boost for a short amount of time.<br /><br /> 10% chance: +25% Accuracy for 10 sec",
+      "When activating any hull healing ability, you have a chance to have your ship's Auxiliary power boosted, which in turn improves the effectiveness of many abilities while also improving your perception and hangar recharge rate.<br /><br /> 10% Chance: +25 Auxilliary Power for 10 sec",
+      "When using the Ambush ability, you have a 40% chance to gain a bonus to your defenses against all attacks while Ambush is active.<br /><br /> 40% chance: to increase Damage Resistance while Ambush is active",
+      "When you activate Electromagnetic Pulse Probe or Ionic Turbulence, this officer has a chance of providing you with a boost to your Control Expertise skill for a moderate duration. This effect has no stacking limit.<br /><br /> 40% chance: +10 Control Expertise skill for 20 sec",
+      "When you activate Fly Her Apart and Hold Together, this officer has a chance of providing you with a boost to your Targeting Expertise and Combat Maneuvers skills for a moderate duration. This effect has no stacking limit.<br /><br /> 40% chance: +10 Targeting Expertise and Combat Maneuvers skill for 20 sec",
+      "When you activate Rally Point Marker or Needs Of The Many, this officer has a chance of providing you with a boost to your Hull Restoration skill for a moderate duration. This effect has no stacking limit.<br /><br /> 40% chance: +10 Hull Restoration skill for 20 sec",
+      "Whenever you activate Frictionless Particle Grenade, this officer grants a chance of receiving temporary immunity to Stun, Root and Slow effects, along with a minor run speed increase.<br /><br /> 50% chance: +50% Run Speed for 5 sec and Immunity to Stun, Root and Slow for 5 sec",
+      "Whenever you summon a Turret or a Drone, there is a chance that the remaining cooldown on all other Turrets and Drones abilities will be reduced.<br /><br /> 25% Chance: Reduce cooldown on Turret and Drone powers by -10sec",
+      "While this officer is on active duty, each foe affected by your Subnucleonic Carrier Wave has a chance of suffering a random subsystem offline status for several seconds.<br /><br /> 50% chance: One Random Subsystem Offline for 4 sec.",
+      "With this officer on active duty, there is a chance that you will receive a brief weapon damage bonus upon the expiration of the Weapons Offline status inflicted upon yourself when using Delegated Devastation.<br /><br /> After Weapons Offline on self Expires, 25% chance: +10% Weapon Damage for 10 sec",
+      "With this officer on active duty, your Coordinate Bombing Strike explosions have a chance of dealing Knockback to foes that receive damage.<br /><br /> 40% chance: Knocks back +8 meters",
+      "the in-game description for violet quality"
+     ]
+    },
+    "white": {
+     "fill": 0.4066,
+     "types": {
+      "empty": 0.5934,
+      "wikitext": 0.2821,
+      "text": 0.1245
+     },
+     "cardinality": 109
+    }
+   }
+  },
+  "starship_traits.json": {
+   "rows": 362,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 361
+    },
+    "basic": {
+     "fill": 0.9972,
+     "types": {
+      "text": 0.5939,
+      "wikitext": 0.4033,
+      "empty": 0.0028
+     },
+     "cardinality": 361
+    },
+    "detailed": {
+     "fill": 1.0,
+     "types": {
+      "text": 0.8536,
+      "wikitext": 0.1464
+     },
+     "cardinality": 361
+    },
+    "icon name": {
+     "fill": 0.0028,
+     "types": {
+      "empty": 0.9972,
+      "text": 0.0028
+     },
+     "cardinality": 1,
+     "values": [
+      "Sniper (starship)"
+     ]
+    },
+    "name": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 361
+    },
+    "obtained": {
+     "fill": 1.0,
+     "types": {
+      "wikitext": 1.0
+     },
+     "cardinality": 361
+    },
+    "short": {
+     "fill": 0.989,
+     "types": {
+      "text": 0.9724,
+      "wikitext": 0.0166,
+      "empty": 0.011
+     },
+     "cardinality": 351
+    },
+    "tag": {
+     "fill": 0.0028,
+     "types": {
+      "empty": 0.9972,
+      "text": 0.0028
+     },
+     "cardinality": 1,
+     "values": [
+      "Heal"
+     ]
+    },
+    "tag2": {
+     "fill": 0.0028,
+     "types": {
+      "empty": 0.9972,
+      "text": 0.0028
+     },
+     "cardinality": 1,
+     "values": [
+      "Resistance"
+     ]
+    },
+    "tag3": {
+     "fill": 0.0,
+     "types": {
+      "empty": 1.0
+     },
+     "cardinality": 0
+    },
+    "type": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 4,
+     "values": [
+      "crossfaction",
+      "faction-specific",
+      "pack",
+      "reward"
+     ]
+    }
+   }
+  },
+  "traits.json": {
+   "rows": 543,
+   "fields": {
+    "Page": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 543
+    },
+    "boff variant": {
+     "fill": 0.0037,
+     "types": {
+      "empty": 0.9963,
+      "text": 0.0037
+     },
+     "cardinality": 2,
+     "values": [
+      "Efficient (bridge officer trait)",
+      "Telekinetic Shove (ground trait)"
+     ]
+    },
+    "career": {
+     "fill": 0.0239,
+     "types": {
+      "empty": 0.9761,
+      "text": 0.0239
+     },
+     "cardinality": 3,
+     "values": [
+      "eng",
+      "sci",
+      "tac"
+     ]
+    },
+    "char variant": {
+     "fill": 0.0018,
+     "types": {
+      "empty": 0.9982,
+      "text": 0.0018
+     },
+     "cardinality": 1,
+     "values": [
+      "Telekinetic (ground trait)"
+     ]
+    },
+    "description": {
+     "fill": 0.8416,
+     "types": {
+      "text": 0.744,
+      "empty": 0.1584,
+      "wikitext": 0.0976
+     },
+     "cardinality": 422
+    },
+    "doff variant": {
+     "fill": 0.0018,
+     "types": {
+      "empty": 0.9982,
+      "text": 0.0018
+     },
+     "cardinality": 1,
+     "values": [
+      "Efficient (duty officer trait)"
+     ]
+    },
+    "environment": {
+     "fill": 0.9503,
+     "types": {
+      "text": 0.9503,
+      "empty": 0.0497
+     },
+     "cardinality": 2,
+     "values": [
+      "ground",
+      "space"
+     ]
+    },
+    "icon name": {
+     "fill": 0.0203,
+     "types": {
+      "empty": 0.9797,
+      "text": 0.0203
+     },
+     "cardinality": 11,
+     "values": [
+      "Adaptive Defense (ground)",
+      "Adaptive Defense (space)",
+      "Adaptive Offense (ground)",
+      "Adaptive Offense (space)",
+      "Engineered Soldier",
+      "Engineered Soldier (Space)",
+      "Hive Defenses (ground)",
+      "Hive Defenses (space)",
+      "Liberated Borg Kingdom Nanoprobes (ground)",
+      "Liberated Borg Kingdom Nanoprobes (space)",
+      "Slippery Target (Lukari Reputation)"
+     ]
+    },
+    "master": {
+     "fill": 1.0,
+     "types": {
+      "int": 1.0
+     },
+     "cardinality": 2,
+     "values": [
+      "0",
+      "1"
+     ]
+    },
+    "name": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 471
+    },
+    "possible": {
+     "fill": 0.0755,
+     "types": {
+      "empty": 0.9245,
+      "text": 0.0755
+     },
+     "cardinality": 35,
+     "values": [
+      "Alien,",
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Caitian,Ferasan,Ferengi,Gorn,Human,Joined Trill,Klingon,Lethean,Liberated Borg,Nausicaan,Orion,Pakled,Reman,Rigelian,Romulan,Saurian,Talaxian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Caitian,Ferasan,Ferengi,Gorn,Human,Joined Trill,Klingon,Lethean,Liberated Borg,Nausicaan,Orion,Pakled,Reman,Rigelian,Romulan,Saurian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Caitian,Ferasan,Ferengi,Human,Joined Trill,Klingon,Lethean,Liberated Borg,Nausicaan,Orion,Pakled,Reman,Rigelian,Romulan,Saurian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Caitian,Ferasan,Ferengi,Human,Joined Trill,Lethean,Liberated Borg,Nausicaan,Orion,Pakled,Rigelian,Romulan,Saurian,Talaxian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Cardassian,Ferengi,Gorn,Human,Joined Trill,Klingon,Lethean,Liberated Borg,Nausicaan,Orion,Reman,Rigelian,Saurian,Talaxian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Ferengi,Gorn,Human,Joined Trill,Klingon,Lethean,Liberated Borg,Nausicaan,Orion,Pakled,Reman,Rigelian,Saurian,Talaxian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Ferengi,Gorn,Human,Joined Trill,Klingon,Liberated Borg,Nausicaan,Orion,Rigelian,Romulan,Talaxian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Bolian,Caitian,Ferasan,Ferengi,Human,Joined Trill,Klingon,Lethean,Liberated Borg,Nausicaan,Orion,Pakled,Reman,Rigelian,Romulan,Saurian,Talaxian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Benzite,Caitian,Ferasan,Human,Joined Trill,Lethean,Orion,Reman,Rigelian,Trill,",
+      "Alien,Andorian,Bajoran,Betazoid,Bolian,Caitian,Ferasan,Ferengi,Gorn,Human,Klingon,Lethean,Nausicaan,Pakled,Reman,Romulan,Saurian,Tellarite,Trill,Vulcan,",
+      "Alien,Andorian,Bajoran,Ferasan,Gorn,Klingon,Lethean,Liberated Borg,Human,Nausicaan,Orion,Pakled,Reman,Rigelian,Saurian,",
+      "Alien,Andorian,Benzite,Bolian,Caitian,Ferengi,Gorn,Human, Jem'Hadar Vanguard , Joined Trill,Klingon,Lethean,Nausicaan,Orion,Pakled,Rigelian,Romulan,Saurian,Talaxian,Tellarite,Trill, Vulcan,",
+      "Alien,Bajoran,Benzite,Betazoid,Bolian,Caitian,Ferasan,Gorn,Klingon,Liberated Borg,Nausicaan,Orion,Pakled,Rigelian,Saurian,Talaxian,Trill,",
+      "Alien,Bajoran,Gorn,Human,Nausicaan,Pakled,Reman,Romulan,Saurian,Tellarite,",
+      "Alien,Benzite,Bolian,Lethean,Jem'Hadar,Jem'Hadar Vanguard,",
+      "Alien,Benzite,Ferengi,Gorn,Klingon,Lethean,Liberated Borg,Orion,Pakled,Romulan,Vulcan,",
+      "Alien,Caitian,Ferasan,Ferengi,Liberated Borg,Pakled,Reman,Talaxian,",
+      "Alien,Caitian,Ferasan,Klingon,Liberated Borg,Pakled,Reman,Saurian,Jem'Hadar,Jem'Hadar Vanguard,",
+      "Alien,Ferasan,",
+      "Alien,Lethean,Reman,Vorta,",
+      "Andorian,",
+      "Andorian,Aenar,",
+      "Bolian,Caitian,Talaxian,",
+      "Caitian,",
+      "Caitian,Ferasan,",
+      "Gorn,",
+      "Joined Trill,Rigelian,Romulan,Trill,Vulcan,",
+      "Lethean, Alien,",
+      "Liberated Borg,",
+      "Reman,",
+      "Reman,Romulan,",
+      "Romulan,",
+      "Talaxian,",
+      "Vulcan,"
+     ]
+    },
+    "required": {
+     "fill": 0.0534,
+     "types": {
+      "empty": 0.9466,
+      "text": 0.0534
+     },
+     "cardinality": 24,
+     "values": [
+      "Alien,Andorian,Bajoran,Benzite,Betazoid,Bolian,Caitian,Ferasan,Ferengi,Gorn,Human, Jem'Hadar Vanguard, Klingon,Lethean,Nausicaan,Orion,Rigelian,Saurian,Talaxian,Tellarite,Trill,",
+      "Bajoran,",
+      "Benzite,",
+      "Betazoid,",
+      "Bolian,",
+      "Ferasan,",
+      "Ferengi,",
+      "Gorn,",
+      "Human,",
+      "Jem'Hadar Vanguard,",
+      "Jem'Hadar,",
+      "Joined Trill,",
+      "Joined Trill,Trill,",
+      "Klingon,",
+      "Lethean,",
+      "Liberated Borg,",
+      "Nausicaan,",
+      "Orion (female),",
+      "Orion,",
+      "Pakled,",
+      "Rigelian,",
+      "Saurian,",
+      "Tellarite,",
+      "Vulcan,"
+     ]
+    },
+    "short description": {
+     "fill": 0.081,
+     "types": {
+      "empty": 0.919,
+      "text": 0.0773,
+      "wikitext": 0.0037
+     },
+     "cardinality": 41
+    },
+    "source": {
+     "fill": 0.105,
+     "types": {
+      "empty": 0.895,
+      "wikitext": 0.0866,
+      "text": 0.0184
+     },
+     "cardinality": 42
+    },
+    "type": {
+     "fill": 1.0,
+     "types": {
+      "text": 1.0
+     },
+     "cardinality": 8,
+     "values": [
+      "Lock box (Space)",
+      "Lockbox (Ground)",
+      "Race (Space)",
+      "activereputation",
+      "boff",
+      "char",
+      "doff",
+      "reputation"
+     ]
+    }
+   }
+  }
+ }
+}
