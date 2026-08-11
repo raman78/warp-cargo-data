@@ -3,9 +3,15 @@
 An automated mirror of the [STO Wiki](https://stowiki.net) Cargo tables,
 published as plain JSON.
 
-This repository contains **data only** — no tooling. Files are refreshed every
-8 hours and a commit is made only when the data has actually changed, so the
-history doubles as a changelog of the wiki's item database.
+This repository contains **data only** — no tooling.
+
+Refreshes are driven from a maintainer's workstation, because the wiki sits
+behind a bot challenge that only a real browser clears. The intent is daily,
+but a refresh happens only while that machine is running, so treat these files
+as *usually recent* rather than guaranteed fresh. A commit is made only when
+the data has actually changed, so the history doubles as a changelog of the
+wiki's item database — and the gaps between commits are honest about when
+nothing moved.
 
 ## Files
 
