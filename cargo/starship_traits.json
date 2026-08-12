@@ -1391,6 +1391,19 @@
   "tag3": null
  },
  {
+  "Page": "Fire Everything! (starship trait)",
+  "name": "Fire Everything!",
+  "short": "Weapon Cycle Haste and Damage Bonus on Firing Modes or Exceed Rated Limits",
+  "basic": "*For 15 seconds after using an Energy Weapon Firing Mode (15 second cooldown):\n** To Self: +20% Weapon Firing Haste\n** To Self: +20% Damage Bonus\n* Exceeding Rated Limits no longer causes power drain and doubles values earned",
+  "detailed": "Each time you use an Energy Weapon Firing Mode, your Weapons gain Weapon Cycle Haste and an Extra Damage Bonus. When using Exceed Rated Limits, this bonus is doubled.\n\nEnergy Weapon Firing Modes are Beam Fire At Will, Beam Overload, Cannon Scatter Volley, Cannon Rapid Fire, Surgical Strikes, Reroute Reserves to Weapons, and Exceed Rated Limits.\n\nThe officers of this ship are eager to strike at their targets, releasing all sorts of devastating weaponry upon their foes. When commanded, their enthusiasm increases how fast they ready weapons and hit targets.",
+  "type": "faction-specific",
+  "obtained": "*<span title=\"Khitomer\">[[File:Faction Khitomer.png|16px|link=Cross-Faction Content]]</span> [[Narada Miracle Worker Juggernaut]]",
+  "icon name": null,
+  "tag": null,
+  "tag2": null,
+  "tag3": null
+ },
+ {
   "Page": "Five Magicks (starship trait)",
   "name": "Five Magicks",
   "short": "Damage from the Five Magicks provides bonuses",

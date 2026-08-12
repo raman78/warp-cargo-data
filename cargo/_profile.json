@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generated_at": "2026-08-11T10:23:58+00:00",
- "script_errors": 160,
+ "generated_at": "2026-08-12T09:32:13+00:00",
+ "script_errors": 155,
  "files": {
   "boff_abilities.json": {
    "rows": 237,
@@ -619,20 +619,20 @@
    }
   },
   "equipment.json": {
-   "rows": 4146,
+   "rows": 4148,
    "fields": {
     "Page": {
      "fill": 1.0,
      "types": {
       "text": 1.0
      },
-     "cardinality": 2717
+     "cardinality": 2719
     },
     "boundto": {
-     "fill": 0.6392,
+     "fill": 0.6393,
      "types": {
-      "text": 0.6392,
-      "empty": 0.3608
+      "text": 0.6393,
+      "empty": 0.3607
      },
      "cardinality": 3,
      "values": [
@@ -642,10 +642,10 @@
      ]
     },
     "boundwhen": {
-     "fill": 0.6392,
+     "fill": 0.6393,
      "types": {
-      "text": 0.6392,
-      "empty": 0.3608
+      "text": 0.6393,
+      "empty": 0.3607
      },
      "cardinality": 2,
      "values": [
@@ -716,10 +716,10 @@
      ]
     },
     "head2": {
-     "fill": 0.2214,
+     "fill": 0.2216,
      "types": {
-      "empty": 0.7786,
-      "text": 0.2205,
+      "empty": 0.7784,
+      "text": 0.2206,
       "wikitext": 0.001
      },
      "cardinality": 457
@@ -728,7 +728,7 @@
      "fill": 0.0439,
      "types": {
       "empty": 0.9561,
-      "text": 0.0437,
+      "text": 0.0436,
       "wikitext": 0.0002
      },
      "cardinality": 167
@@ -894,7 +894,7 @@
      "types": {
       "text": 1.0
      },
-     "cardinality": 4070
+     "cardinality": 4072
     },
     "rarity": {
      "fill": 0.9961,
@@ -959,10 +959,10 @@
      "cardinality": 0
     },
     "subhead2": {
-     "fill": 0.1201,
+     "fill": 0.1203,
      "types": {
-      "empty": 0.8799,
-      "text": 0.1201
+      "empty": 0.8797,
+      "text": 0.1203
      },
      "cardinality": 21,
      "values": [
@@ -1079,11 +1079,11 @@
     "text1": {
      "fill": 0.905,
      "types": {
-      "text": 0.7634,
-      "wikitext": 0.1416,
+      "text": 0.7633,
+      "wikitext": 0.1418,
       "empty": 0.095
      },
-     "cardinality": 2925
+     "cardinality": 2927
     },
     "text10": {
      "fill": 0.0031,
@@ -1134,31 +1134,31 @@
      ]
     },
     "text2": {
-     "fill": 0.4257,
+     "fill": 0.426,
      "types": {
-      "empty": 0.575,
-      "text": 0.3816,
+      "empty": 0.5747,
+      "text": 0.3819,
       "wikitext": 0.0434
      },
-     "cardinality": 1380
+     "cardinality": 1382
     },
     "text3": {
-     "fill": 0.1604,
+     "fill": 0.1606,
      "types": {
-      "empty": 0.8411,
-      "text": 0.1315,
+      "empty": 0.8409,
+      "text": 0.1316,
       "wikitext": 0.0275
      },
      "cardinality": 543
     },
     "text4": {
-     "fill": 0.0926,
+     "fill": 0.0928,
      "types": {
-      "empty": 0.9079,
-      "text": 0.0728,
+      "empty": 0.9077,
+      "text": 0.073,
       "wikitext": 0.0193
      },
-     "cardinality": 320
+     "cardinality": 321
     },
     "text5": {
      "fill": 0.0557,
@@ -1188,9 +1188,9 @@
      "cardinality": 73
     },
     "text8": {
-     "fill": 0.015,
+     "fill": 0.0149,
      "types": {
-      "empty": 0.985,
+      "empty": 0.9851,
       "text": 0.0128,
       "wikitext": 0.0022
      },
@@ -1240,19 +1240,19 @@
      ]
     },
     "ttext": {
-     "fill": 0.124,
+     "fill": 0.1242,
      "types": {
-      "empty": 0.876,
+      "empty": 0.8758,
       "wikitext": 0.0902,
-      "text": 0.0338
+      "text": 0.034
      },
      "cardinality": 391
     },
     "type": {
-     "fill": 0.9727,
+     "fill": 0.9728,
      "types": {
-      "text": 0.9727,
-      "empty": 0.0273
+      "text": 0.9728,
+      "empty": 0.0272
      },
      "cardinality": 38,
      "values": [
@@ -1297,13 +1297,13 @@
      ]
     },
     "who": {
-     "fill": 0.1558,
+     "fill": 0.155,
      "types": {
-      "empty": 0.8442,
-      "text": 0.1553,
+      "empty": 0.845,
+      "text": 0.1545,
       "wikitext": 0.0005
      },
-     "cardinality": 120
+     "cardinality": 118
     }
    }
   },
@@ -2316,31 +2316,31 @@
    }
   },
   "starship_traits.json": {
-   "rows": 362,
+   "rows": 363,
    "fields": {
     "Page": {
      "fill": 1.0,
      "types": {
       "text": 1.0
      },
-     "cardinality": 361
+     "cardinality": 362
     },
     "basic": {
      "fill": 0.9972,
      "types": {
-      "text": 0.5939,
-      "wikitext": 0.4033,
+      "text": 0.595,
+      "wikitext": 0.4022,
       "empty": 0.0028
      },
-     "cardinality": 361
+     "cardinality": 362
     },
     "detailed": {
      "fill": 1.0,
      "types": {
-      "text": 0.8536,
-      "wikitext": 0.1464
+      "text": 0.854,
+      "wikitext": 0.146
      },
-     "cardinality": 361
+     "cardinality": 362
     },
     "icon name": {
      "fill": 0.0028,
@@ -2358,23 +2358,23 @@
      "types": {
       "text": 1.0
      },
-     "cardinality": 361
+     "cardinality": 362
     },
     "obtained": {
      "fill": 1.0,
      "types": {
       "wikitext": 1.0
      },
-     "cardinality": 361
+     "cardinality": 362
     },
     "short": {
      "fill": 0.989,
      "types": {
-      "text": 0.9724,
-      "wikitext": 0.0166,
+      "text": 0.9725,
+      "wikitext": 0.0165,
       "empty": 0.011
      },
-     "cardinality": 351
+     "cardinality": 352
     },
     "tag": {
      "fill": 0.0028,
