@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-08-15T13:34:22+00:00",
+ "generated_at": "2026-08-16T14:46:42+00:00",
  "script_errors": 151,
  "files": {
   "boff_abilities.json": {
@@ -1759,12 +1759,12 @@
      "cardinality": 704
     },
     "image2": {
-     "fill": 0.1669,
+     "fill": 0.1656,
      "types": {
-      "empty": 0.8331,
-      "text": 0.1669
+      "empty": 0.8344,
+      "text": 0.1656
      },
-     "cardinality": 117
+     "cardinality": 116
     },
     "impulse": {
      "fill": 0.9887,
@@ -2342,7 +2342,7 @@
      },
      "cardinality": 362
     },
-    "icon name": {
+    "icon_name": {
      "fill": 0.0028,
      "types": {
       "empty": 0.9972,
@@ -2498,7 +2498,7 @@
       "space"
      ]
     },
-    "icon name": {
+    "icon_name": {
      "fill": 0.0203,
      "types": {
       "empty": 0.9797,

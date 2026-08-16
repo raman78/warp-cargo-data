@@ -16502,7 +16502,7 @@
  {
   "Page": "Gladius Escort Refit",
   "name": "Gladius Escort Refit",
-  "image": "File:Ship Variant - FED - Gladius Escort Refit New.jpeg",
+  "image": "File:Escort Refit.png",
   "image2": null,
   "released": "20111103",
   "internalname": null,
@@ -23452,7 +23452,7 @@
  {
   "Page": "Legendary T'liss Light Intel Warbird",
   "name": "Legendary T'liss Light Intel Warbird",
-  "image": "File:Rom Ship T'liss Refit.png",
+  "image": "File:Rom Ship Legendary T'liss.png",
   "image2": null,
   "released": "20200618",
   "internalname": null,
@@ -32202,8 +32202,8 @@
  {
   "Page": "Sao Paulo Tactical Escort Refit",
   "name": "Tactical Escort Refit",
-  "image": "File:Tactical Escort Refit.jpg",
-  "image2": "SaoPauloOverview.jpg",
+  "image": "File:USS Belfast - S36.png",
+  "image2": null,
   "released": "20111201",
   "internalname": null,
   "fc": "0",
@@ -34202,7 +34202,7 @@
  {
   "Page": "T'liss Light Warbird",
   "name": "T'liss Light Warbird",
-  "image": "File:Rom_Ship_T'liss.jpg",
+  "image": "File:Rom Ship T'liss T1.png",
   "image2": null,
   "released": "20130521",
   "internalname": null,
@@ -34252,7 +34252,7 @@
  {
   "Page": "T'liss Temporal Warbird",
   "name": "T'liss Temporal Warbird",
-  "image": "File:TlissTemp.png",
+  "image": "File:Rom Ship T'liss Temporal.png",
   "image2": null,
   "released": "20160825",
   "internalname": null,
