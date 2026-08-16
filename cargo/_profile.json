@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-08-16T14:46:42+00:00",
+ "generated_at": "2026-08-16T18:15:31+00:00",
  "script_errors": 151,
  "files": {
   "boff_abilities.json": {
@@ -364,7 +364,7 @@
      "types": {
       "text": 1.0
      },
-     "cardinality": 9,
+     "cardinality": 8,
      "values": [
       "Command",
       "Engineering",
@@ -373,7 +373,6 @@
       "Pilot",
       "Science",
       "Tactical",
-      "Temporal",
       "Temporal Operative"
      ]
     }
