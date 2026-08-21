@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-08-21T06:17:40+00:00",
+ "generated_at": "2026-08-21T21:24:40+00:00",
  "script_errors": 151,
  "files": {
   "boff_abilities.json": {
@@ -1477,12 +1477,11 @@
      "cardinality": 797
     },
     "abilities": {
-     "fill": 0.9423,
+     "fill": 1.0,
      "types": {
-      "text": 0.9423,
-      "empty": 0.0577
+      "list": 1.0
      },
-     "cardinality": 582
+     "cardinality": 581
     },
     "admiraltyeng": {
      "fill": 0.9987,
@@ -1524,12 +1523,11 @@
      ]
     },
     "boffs": {
-     "fill": 0.9962,
+     "fill": 1.0,
      "types": {
-      "text": 0.9962,
-      "empty": 0.0038
+      "list": 1.0
      },
-     "cardinality": 468
+     "cardinality": 467
     },
     "consoleseng": {
      "fill": 1.0,
@@ -2059,48 +2057,48 @@
     "type": {
      "fill": 1.0,
      "types": {
-      "text": 1.0
+      "list": 1.0
      },
      "cardinality": 38,
      "values": [
-      "Battlecruiser",
-      "Battlecruiser /Freighter",
-      "Carrier Warbird",
-      "Cruiser",
-      "Destroyer",
-      "Dreadnought Carrier",
-      "Dreadnought Cruiser",
-      "Dreadnought Warbird",
-      "Engineering Carrier",
-      "Escort",
-      "Escort Carrier",
-      "Flight Deck Carrier",
-      "Flight Deck Raptor",
-      "Freighter",
-      "Frigate",
-      "Heavy Dreadnought Cruiser",
-      "Heavy Dreadnought Warbird",
-      "Juggernaut",
-      "Multi-Mission Cruiser",
-      "Multi-Mission Science Vessel",
-      "Raider",
-      "Raptor",
-      "Science Carrier",
-      "Science Destroyer",
-      "Science Destroyer Warbird",
-      "Science Dreadnought",
-      "Science Spearhead",
-      "Science Vessel",
-      "Science Warship",
-      "Scout Ship",
-      "Small Craft",
-      "Strike Wing Escort",
-      "Tactical Carrier Warbird",
-      "Warbird",
-      "Warbird Battlecruiser",
-      "Warbird Destroyer",
-      "Warbird Science Vessel",
-      "Warship"
+      "['Battlecruiser /Freighter']",
+      "['Battlecruiser']",
+      "['Carrier Warbird']",
+      "['Cruiser']",
+      "['Destroyer']",
+      "['Dreadnought Carrier']",
+      "['Dreadnought Cruiser']",
+      "['Dreadnought Warbird']",
+      "['Engineering Carrier']",
+      "['Escort Carrier']",
+      "['Escort']",
+      "['Flight Deck Carrier']",
+      "['Flight Deck Raptor']",
+      "['Freighter']",
+      "['Frigate']",
+      "['Heavy Dreadnought Cruiser']",
+      "['Heavy Dreadnought Warbird']",
+      "['Juggernaut']",
+      "['Multi-Mission Cruiser']",
+      "['Multi-Mission Science Vessel']",
+      "['Raider']",
+      "['Raptor']",
+      "['Science Carrier']",
+      "['Science Destroyer Warbird']",
+      "['Science Destroyer']",
+      "['Science Dreadnought']",
+      "['Science Spearhead']",
+      "['Science Vessel']",
+      "['Science Warship']",
+      "['Scout Ship']",
+      "['Small Craft']",
+      "['Strike Wing Escort']",
+      "['Tactical Carrier Warbird']",
+      "['Warbird Battlecruiser']",
+      "['Warbird Destroyer']",
+      "['Warbird Science Vessel']",
+      "['Warbird']",
+      "['Warship']"
      ]
     },
     "uniconsole": {
