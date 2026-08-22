@@ -225,7 +225,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Klingon Bat'leth",
   "section": "Advanced Fleet Ground Weapons",
   "source": "listing-scrape"
  },
@@ -675,7 +675,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Vulcan Lirpa",
   "section": "Advanced Fleet Ground Weapons",
   "source": "listing-scrape"
  },
@@ -685,7 +685,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton Assault Minigun",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -695,7 +695,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton Blast Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -705,7 +705,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton High Density Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -715,7 +715,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton Pulsewave Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -725,7 +725,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton Sniper Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -735,7 +735,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton Split Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -745,7 +745,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton Stun Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -755,7 +755,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Antiproton Wide Beam Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -765,7 +765,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor Assault Minigun",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -775,7 +775,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor Blast Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -785,7 +785,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor High Density Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -795,7 +795,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor Pulsewave Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -805,7 +805,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor Sniper Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -815,7 +815,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor Split Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -825,7 +825,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor Stun Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -835,7 +835,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Disruptor Wide Beam Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -845,7 +845,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser Assault Minigun",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -855,7 +855,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser Blast Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -865,7 +865,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser High Density Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -875,7 +875,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser Pulsewave Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -885,7 +885,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser Sniper Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -895,7 +895,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser Split Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -905,7 +905,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser Stun Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -915,7 +915,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Phaser Wide Beam Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -925,7 +925,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma Assault Minigun",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -935,7 +935,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma Blast Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -945,7 +945,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma High Density Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -955,7 +955,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma Pulsewave Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -965,7 +965,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma Sniper Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -975,7 +975,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma Split Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -985,7 +985,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma Stun Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -995,7 +995,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Plasma Wide Beam Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1005,7 +1005,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron Assault Minigun",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1015,7 +1015,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron Blast Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1025,7 +1025,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron High Density Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1035,7 +1035,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron Pulsewave Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1045,7 +1045,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron Sniper Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1055,7 +1055,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron Split Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1065,7 +1065,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron Stun Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1075,7 +1075,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Polaron Wide Beam Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1085,7 +1085,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon Assault Minigun",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1095,7 +1095,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon Blast Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1105,7 +1105,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon High Density Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1115,7 +1115,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon Pulsewave Assault",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1125,7 +1125,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon Sniper Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1135,7 +1135,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon Split Beam Rifle",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1145,7 +1145,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon Stun Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
@@ -1155,7 +1155,7 @@
   "type": "Ground Weapon",
   "rarity": "Ultra Rare",
   "mark": "Mk XII",
-  "icon_source": "",
+  "icon_source": "Tetryon Wide Beam Pistol",
   "section": "Elite Fleet Colony Security Ground Weapons",
   "source": "listing-scrape"
  },
