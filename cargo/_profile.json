@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-08-21T21:24:40+00:00",
+ "generated_at": "2026-08-23T08:11:42+00:00",
  "script_errors": 151,
  "files": {
   "boff_abilities.json": {
@@ -618,20 +618,20 @@
    }
   },
   "equipment.json": {
-   "rows": 4166,
+   "rows": 4168,
    "fields": {
     "Page": {
      "fill": 1.0,
      "types": {
       "text": 1.0
      },
-     "cardinality": 2730
+     "cardinality": 2732
     },
     "boundto": {
-     "fill": 0.6407,
+     "fill": 0.6406,
      "types": {
-      "text": 0.6407,
-      "empty": 0.3593
+      "text": 0.6406,
+      "empty": 0.3594
      },
      "cardinality": 3,
      "values": [
@@ -641,10 +641,10 @@
      ]
     },
     "boundwhen": {
-     "fill": 0.6407,
+     "fill": 0.6406,
      "types": {
-      "text": 0.6407,
-      "empty": 0.3593
+      "text": 0.6406,
+      "empty": 0.3594
      },
      "cardinality": 2,
      "values": [
@@ -665,13 +665,13 @@
      ]
     },
     "head1": {
-     "fill": 0.4666,
+     "fill": 0.4669,
      "types": {
-      "empty": 0.5334,
-      "text": 0.4664,
+      "empty": 0.5331,
+      "text": 0.4667,
       "wikitext": 0.0002
      },
-     "cardinality": 1257
+     "cardinality": 1258
     },
     "head10": {
      "fill": 0.0024,
@@ -715,10 +715,10 @@
      ]
     },
     "head2": {
-     "fill": 0.2218,
+     "fill": 0.2219,
      "types": {
-      "empty": 0.7782,
-      "text": 0.2208,
+      "empty": 0.7781,
+      "text": 0.221,
       "wikitext": 0.001
      },
      "cardinality": 461
@@ -727,7 +727,7 @@
      "fill": 0.0444,
      "types": {
       "empty": 0.9556,
-      "text": 0.0442,
+      "text": 0.0441,
       "wikitext": 0.0002
      },
      "cardinality": 169
@@ -893,7 +893,7 @@
      "types": {
       "text": 1.0
      },
-     "cardinality": 4090
+     "cardinality": 4092
     },
     "rarity": {
      "fill": 0.9962,
@@ -958,10 +958,10 @@
      "cardinality": 0
     },
     "subhead2": {
-     "fill": 0.12,
+     "fill": 0.1202,
      "types": {
-      "empty": 0.88,
-      "text": 0.12
+      "empty": 0.8798,
+      "text": 0.1202
      },
      "cardinality": 21,
      "values": [
@@ -1076,13 +1076,13 @@
      ]
     },
     "text1": {
-     "fill": 0.9054,
+     "fill": 0.9055,
      "types": {
-      "text": 0.764,
-      "wikitext": 0.1414,
-      "empty": 0.0946
+      "text": 0.7642,
+      "wikitext": 0.1413,
+      "empty": 0.0945
      },
-     "cardinality": 2944
+     "cardinality": 2945
     },
     "text10": {
      "fill": 0.0031,
@@ -1135,17 +1135,17 @@
     "text2": {
      "fill": 0.4261,
      "types": {
-      "empty": 0.5747,
+      "empty": 0.5746,
       "text": 0.3817,
       "wikitext": 0.0437
      },
      "cardinality": 1389
     },
     "text3": {
-     "fill": 0.1608,
+     "fill": 0.1607,
      "types": {
-      "empty": 0.8406,
-      "text": 0.1318,
+      "empty": 0.8407,
+      "text": 0.1317,
       "wikitext": 0.0276
      },
      "cardinality": 546
@@ -1239,13 +1239,13 @@
      ]
     },
     "ttext": {
-     "fill": 0.1253,
+     "fill": 0.1255,
      "types": {
-      "empty": 0.8747,
+      "empty": 0.8745,
       "wikitext": 0.0912,
-      "text": 0.0341
+      "text": 0.0343
      },
-     "cardinality": 397
+     "cardinality": 398
     },
     "type": {
      "fill": 0.9729,
@@ -1299,7 +1299,7 @@
      "fill": 0.1543,
      "types": {
       "empty": 0.8457,
-      "text": 0.1539,
+      "text": 0.1538,
       "wikitext": 0.0005
      },
      "cardinality": 118
