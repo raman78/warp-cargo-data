@@ -4936,7 +4936,7 @@
  },
  {
   "Page": "Advanced Fleet Antiproton Blast Assault",
-  "name": "Advanced Fleet Antiproton Blast Assault Mk XII",
+  "name": "Advanced Fleet Antiproton Blast Assault",
   "rarity": "Ultra Rare",
   "type": "Ground Weapon",
   "boundto": null,
@@ -172967,7 +172967,7 @@
   "boundto": "Character",
   "boundwhen": "Pickup",
   "who": null,
-  "ttext": "'''''* You must spend at least __ Points in the Temporal Operative Specialization to equip this item. Specialization Kit Modules can not be upgraded'''''",
+  "ttext": "'''''* You must spend at least 27 Points in the Temporal Operative Specialization to equip this item. Specialization Kit Modules can not be upgraded'''''",
   "head1": "Causal Entanglement IV",
   "head2": null,
   "head3": null,

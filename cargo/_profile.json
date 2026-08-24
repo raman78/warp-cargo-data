@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-08-23T08:11:42+00:00",
+ "generated_at": "2026-08-24T10:03:11+00:00",
  "script_errors": 151,
  "files": {
   "boff_abilities.json": {
@@ -1245,7 +1245,7 @@
       "wikitext": 0.0912,
       "text": 0.0343
      },
-     "cardinality": 398
+     "cardinality": 397
     },
     "type": {
      "fill": 0.9729,
