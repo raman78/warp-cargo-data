@@ -1791,7 +1791,7 @@
   "powertype": 2,
   "powerid": "Fabrication Engineer2",
   "shipdutytype": "Space",
-  "description": "<span style=\"color:violet\">[SP]</span> Space Operational Asset Cooldown Reduction",
+  "description": "<span style=\"color:violet\">[SP]</span> Space [[Fleet Operational Asset|Operational Asset]] Cooldown Reduction.",
   "white": "Decreases the cooldown of Space Operational Assets by 10%",
   "green": "Decreases the cooldown of Space Operational Assets by 20%",
   "blue": "Decreases the cooldown of Space Operational Assets by 30%",
