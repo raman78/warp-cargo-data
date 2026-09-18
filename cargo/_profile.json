@@ -1,7 +1,7 @@
 {
  "version": 1,
- "generated_at": "2026-08-29T21:01:10+00:00",
- "script_errors": 151,
+ "generated_at": "2026-09-18T09:32:17+00:00",
+ "script_errors": 148,
  "files": {
   "boff_abilities.json": {
    "rows": 237,
@@ -618,20 +618,20 @@
    }
   },
   "equipment.json": {
-   "rows": 4309,
+   "rows": 4336,
    "fields": {
     "Page": {
      "fill": 1.0,
      "types": {
       "text": 1.0
      },
-     "cardinality": 2873
+     "cardinality": 2900
     },
     "boundto": {
-     "fill": 0.622,
+     "fill": 0.6243,
      "types": {
-      "text": 0.622,
-      "empty": 0.378
+      "text": 0.6243,
+      "empty": 0.3757
      },
      "cardinality": 3,
      "values": [
@@ -641,10 +641,10 @@
      ]
     },
     "boundwhen": {
-     "fill": 0.622,
+     "fill": 0.6243,
      "types": {
-      "text": 0.622,
-      "empty": 0.378
+      "text": 0.6243,
+      "empty": 0.3757
      },
      "cardinality": 2,
      "values": [
@@ -665,13 +665,13 @@
      ]
     },
     "head1": {
-     "fill": 0.4843,
+     "fill": 0.4875,
      "types": {
-      "empty": 0.5157,
-      "text": 0.4841,
+      "empty": 0.5125,
+      "text": 0.4873,
       "wikitext": 0.0002
      },
-     "cardinality": 1268
+     "cardinality": 1296
     },
     "head10": {
      "fill": 0.0023,
@@ -715,19 +715,19 @@
      ]
     },
     "head2": {
-     "fill": 0.2451,
+     "fill": 0.2435,
      "types": {
-      "empty": 0.7549,
-      "text": 0.2441,
+      "empty": 0.7565,
+      "text": 0.2426,
       "wikitext": 0.0009
      },
      "cardinality": 461
     },
     "head3": {
-     "fill": 0.0429,
+     "fill": 0.0427,
      "types": {
-      "empty": 0.9571,
-      "text": 0.0427,
+      "empty": 0.9573,
+      "text": 0.0424,
       "wikitext": 0.0002
      },
      "cardinality": 169
@@ -741,10 +741,10 @@
      "cardinality": 44
     },
     "head5": {
-     "fill": 0.0084,
+     "fill": 0.0083,
      "types": {
-      "empty": 0.9916,
-      "text": 0.0084
+      "empty": 0.9917,
+      "text": 0.0083
      },
      "cardinality": 27,
      "values": [
@@ -778,9 +778,9 @@
      ]
     },
     "head6": {
-     "fill": 0.01,
+     "fill": 0.0099,
      "types": {
-      "empty": 0.99,
+      "empty": 0.9901,
       "text": 0.0097,
       "wikitext": 0.0002
      },
@@ -862,10 +862,10 @@
      ]
     },
     "head9": {
-     "fill": 0.0072,
+     "fill": 0.0071,
      "types": {
-      "empty": 0.9928,
-      "text": 0.0072
+      "empty": 0.9929,
+      "text": 0.0071
      },
      "cardinality": 17,
      "values": [
@@ -893,7 +893,7 @@
      "types": {
       "text": 1.0
      },
-     "cardinality": 4233
+     "cardinality": 4261
     },
     "rarity": {
      "fill": 0.9963,
@@ -912,10 +912,10 @@
      ]
     },
     "subhead1": {
-     "fill": 0.0278,
+     "fill": 0.0277,
      "types": {
-      "empty": 0.9722,
-      "text": 0.0278
+      "empty": 0.9723,
+      "text": 0.0277
      },
      "cardinality": 11,
      "values": [
@@ -958,10 +958,10 @@
      "cardinality": 0
     },
     "subhead2": {
-     "fill": 0.1467,
+     "fill": 0.1458,
      "types": {
-      "empty": 0.8533,
-      "text": 0.1467
+      "empty": 0.8542,
+      "text": 0.1458
      },
      "cardinality": 21,
      "values": [
@@ -989,10 +989,10 @@
      ]
     },
     "subhead3": {
-     "fill": 0.0049,
+     "fill": 0.0048,
      "types": {
-      "empty": 0.9951,
-      "text": 0.0049
+      "empty": 0.9952,
+      "text": 0.0048
      },
      "cardinality": 4,
      "values": [
@@ -1076,13 +1076,13 @@
      ]
     },
     "text1": {
-     "fill": 0.9086,
+     "fill": 0.9091,
      "types": {
-      "text": 0.7716,
-      "wikitext": 0.1369,
-      "empty": 0.0914
+      "text": 0.7701,
+      "wikitext": 0.1391,
+      "empty": 0.0909
      },
-     "cardinality": 2992
+     "cardinality": 3020
     },
     "text10": {
      "fill": 0.003,
@@ -1133,64 +1133,64 @@
      ]
     },
     "text2": {
-     "fill": 0.4426,
+     "fill": 0.4398,
      "types": {
-      "empty": 0.5581,
-      "text": 0.3996,
-      "wikitext": 0.0422
+      "empty": 0.5609,
+      "text": 0.3971,
+      "wikitext": 0.042
      },
      "cardinality": 1455
     },
     "text3": {
-     "fill": 0.1555,
+     "fill": 0.1545,
      "types": {
-      "empty": 0.8459,
-      "text": 0.1274,
-      "wikitext": 0.0267
+      "empty": 0.8469,
+      "text": 0.1266,
+      "wikitext": 0.0265
      },
      "cardinality": 546
     },
     "text4": {
-     "fill": 0.0898,
+     "fill": 0.0893,
      "types": {
-      "empty": 0.9107,
-      "text": 0.0703,
-      "wikitext": 0.019
+      "empty": 0.9112,
+      "text": 0.0699,
+      "wikitext": 0.0189
      },
      "cardinality": 322
     },
     "text5": {
-     "fill": 0.0536,
+     "fill": 0.0533,
      "types": {
-      "empty": 0.9464,
-      "text": 0.0425,
+      "empty": 0.9467,
+      "text": 0.0422,
       "wikitext": 0.0111
      },
      "cardinality": 188
     },
     "text6": {
-     "fill": 0.0337,
+     "fill": 0.0334,
      "types": {
-      "empty": 0.9663,
-      "text": 0.0295,
+      "empty": 0.9666,
+      "text": 0.0293,
       "wikitext": 0.0042
      },
      "cardinality": 110
     },
     "text7": {
-     "fill": 0.0211,
+     "fill": 0.021,
      "types": {
-      "empty": 0.9789,
-      "text": 0.0188,
+      "empty": 0.979,
+      "text": 0.0187,
       "wikitext": 0.0023
      },
      "cardinality": 73
     },
     "text8": {
-     "fill": 0.0144,
+     "fill": 0.0143,
      "types": {
-      "empty": 0.9856,
-      "text": 0.0123,
+      "empty": 0.9857,
+      "text": 0.0122,
       "wikitext": 0.0021
      },
      "cardinality": 51
@@ -1199,8 +1199,8 @@
      "fill": 0.0097,
      "types": {
       "empty": 0.9903,
-      "text": 0.0072,
-      "wikitext": 0.0026
+      "text": 0.0071,
+      "wikitext": 0.0025
      },
      "cardinality": 32,
      "values": [
@@ -1239,19 +1239,19 @@
      ]
     },
     "ttext": {
-     "fill": 0.1237,
+     "fill": 0.1294,
      "types": {
-      "empty": 0.8763,
-      "wikitext": 0.0882,
-      "text": 0.0355
+      "empty": 0.8706,
+      "wikitext": 0.0876,
+      "text": 0.0417
      },
-     "cardinality": 398
+     "cardinality": 400
     },
     "type": {
-     "fill": 0.9738,
+     "fill": 0.9739,
      "types": {
-      "text": 0.9738,
-      "empty": 0.0262
+      "text": 0.9739,
+      "empty": 0.0261
      },
      "cardinality": 38,
      "values": [
@@ -1296,10 +1296,10 @@
      ]
     },
     "who": {
-     "fill": 0.1492,
+     "fill": 0.1481,
      "types": {
-      "empty": 0.8508,
-      "text": 0.1488,
+      "empty": 0.8519,
+      "text": 0.1476,
       "wikitext": 0.0005
      },
      "cardinality": 118
@@ -1386,7 +1386,7 @@
       "This deals 15 base damage and scales only with sources of All Damage boosts.",
       "This modifier is available on [[Fleet Deflector Array#Elite Fleet Protomatter Deflector Arrays|Elite Fleet Protomatter Deflector Arrays]] which can be obtained from a [[Fleet Colony World]] with Renewable Energy Tier III.",
       "This modifier is restricted to two copies per item.",
-      "This modifier is unique to the Vulcan Lirpa that can be obtained from  [[Mission: Hearts and Minds|“Hearts and Minds”]]."
+      "This modifier is unique to the Vulcan Lirpa that can be obtained from  [[Hearts and Minds (episode)|“Hearts and Minds”]]."
      ]
     },
     "isepic": {
@@ -1467,21 +1467,21 @@
    }
   },
   "ship_list.json": {
-   "rows": 797,
+   "rows": 799,
    "fields": {
     "Page": {
      "fill": 1.0,
      "types": {
       "text": 1.0
      },
-     "cardinality": 797
+     "cardinality": 799
     },
     "abilities": {
      "fill": 1.0,
      "types": {
       "list": 1.0
      },
-     "cardinality": 581
+     "cardinality": 583
     },
     "admiraltyeng": {
      "fill": 0.9987,
@@ -1527,7 +1527,7 @@
      "types": {
       "list": 1.0
      },
-     "cardinality": 467
+     "cardinality": 469
     },
     "consoleseng": {
      "fill": 1.0,
@@ -1575,12 +1575,12 @@
      ]
     },
     "cost": {
-     "fill": 0.9749,
+     "fill": 0.975,
      "types": {
-      "text": 0.9749,
-      "empty": 0.0251
+      "text": 0.975,
+      "empty": 0.025
      },
-     "cardinality": 73
+     "cardinality": 74
     },
     "devices": {
      "fill": 1.0,
@@ -1597,12 +1597,12 @@
      ]
     },
     "displayclass": {
-     "fill": 0.9009,
+     "fill": 0.9011,
      "types": {
-      "text": 0.9009,
-      "empty": 0.0991
+      "text": 0.9011,
+      "empty": 0.0989
      },
-     "cardinality": 510
+     "cardinality": 511
     },
     "displayprefix": {
      "fill": 0.4994,
@@ -1618,7 +1618,7 @@
       "text": 0.9812,
       "empty": 0.0188
      },
-     "cardinality": 343
+     "cardinality": 344
     },
     "equipcannons": {
      "fill": 1.0,
@@ -1722,10 +1722,10 @@
      ]
     },
     "hangars": {
-     "fill": 0.2246,
+     "fill": 0.2253,
      "types": {
-      "empty": 0.7754,
-      "int": 0.2246
+      "empty": 0.7747,
+      "int": 0.2253
      },
      "cardinality": 2,
      "values": [
@@ -1743,8 +1743,8 @@
     "hullmod": {
      "fill": 1.0,
      "types": {
-      "float": 0.9435,
-      "int": 0.0565
+      "float": 0.9437,
+      "int": 0.0563
      },
      "cardinality": 93
     },
@@ -1753,13 +1753,13 @@
      "types": {
       "text": 1.0
      },
-     "cardinality": 704
+     "cardinality": 706
     },
     "image2": {
-     "fill": 0.1656,
+     "fill": 0.1652,
      "types": {
-      "empty": 0.8344,
-      "text": 0.1656
+      "empty": 0.8348,
+      "text": 0.1652
      },
      "cardinality": 116
     },
@@ -1798,10 +1798,10 @@
      ]
     },
     "inertia": {
-     "fill": 0.9573,
+     "fill": 0.9574,
      "types": {
-      "int": 0.9573,
-      "empty": 0.0427
+      "int": 0.9574,
+      "empty": 0.0426
      },
      "cardinality": 23,
      "values": [
@@ -1831,10 +1831,10 @@
      ]
     },
     "internalname": {
-     "fill": 0.0276,
+     "fill": 0.0275,
      "types": {
-      "empty": 0.9724,
-      "text": 0.0276
+      "empty": 0.9725,
+      "text": 0.0275
      },
      "cardinality": 21,
      "values": [
@@ -1866,13 +1866,13 @@
      "types": {
       "text": 1.0
      },
-     "cardinality": 797
+     "cardinality": 799
     },
     "powerall": {
-     "fill": 0.1079,
+     "fill": 0.1076,
      "types": {
-      "empty": 0.8921,
-      "int": 0.1079
+      "empty": 0.8924,
+      "int": 0.1076
      },
      "cardinality": 3,
      "values": [
@@ -1882,10 +1882,10 @@
      ]
     },
     "powerauxiliary": {
-     "fill": 0.3952,
+     "fill": 0.3942,
      "types": {
-      "empty": 0.6048,
-      "int": 0.3952
+      "empty": 0.6058,
+      "int": 0.3942
      },
      "cardinality": 4,
      "values": [
@@ -1915,10 +1915,10 @@
      ]
     },
     "powerengines": {
-     "fill": 0.4178,
+     "fill": 0.4193,
      "types": {
-      "empty": 0.5822,
-      "int": 0.4178
+      "empty": 0.5807,
+      "int": 0.4193
      },
      "cardinality": 3,
      "values": [
@@ -1928,10 +1928,10 @@
      ]
     },
     "powershields": {
-     "fill": 0.2522,
+     "fill": 0.2528,
      "types": {
-      "empty": 0.7478,
-      "int": 0.2522
+      "empty": 0.7472,
+      "int": 0.2528
      },
      "cardinality": 3,
      "values": [
@@ -1941,10 +1941,10 @@
      ]
     },
     "powerweapons": {
-     "fill": 0.6851,
+     "fill": 0.6859,
      "types": {
-      "int": 0.6851,
-      "empty": 0.3149
+      "int": 0.6859,
+      "empty": 0.3141
      },
      "cardinality": 4,
      "values": [
@@ -1997,7 +1997,7 @@
      "types": {
       "int": 1.0
      },
-     "cardinality": 254
+     "cardinality": 256
     },
     "secdeflector": {
      "fill": 1.0,
@@ -2013,16 +2013,16 @@
     "shieldmod": {
      "fill": 1.0,
      "types": {
-      "float": 0.8494,
-      "int": 0.1506
+      "float": 0.8486,
+      "int": 0.1514
      },
      "cardinality": 63
     },
     "t5uconsole": {
-     "fill": 0.1769,
+     "fill": 0.1765,
      "types": {
-      "empty": 0.8231,
-      "text": 0.1769
+      "empty": 0.8235,
+      "text": 0.1765
      },
      "cardinality": 3,
      "values": [
@@ -2049,8 +2049,8 @@
     "turnrate": {
      "fill": 1.0,
      "types": {
-      "int": 0.8934,
-      "float": 0.1066
+      "int": 0.8936,
+      "float": 0.1064
      },
      "cardinality": 44
     },
@@ -2102,18 +2102,18 @@
      ]
     },
     "uniconsole": {
-     "fill": 0.6474,
+     "fill": 0.6483,
      "types": {
-      "text": 0.6474,
-      "empty": 0.3526
+      "text": 0.6483,
+      "empty": 0.3517
      },
-     "cardinality": 422
+     "cardinality": 424
     },
     "upgradecost": {
-     "fill": 0.1782,
+     "fill": 0.1777,
      "types": {
-      "empty": 0.8218,
-      "text": 0.1782
+      "empty": 0.8223,
+      "text": 0.1777
      },
      "cardinality": 2,
      "values": [

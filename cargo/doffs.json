@@ -27466,7 +27466,7 @@
   "quality": "Gold",
   "qualityindex": 5,
   "rank": "Master Chief Petty Officer",
-  "traits": "Trait: Congenial/doff,Trait: Efficient/doff,Trait: Eidetic Memory/doff,Trait: Peaceful/doff,Trait: Teamwork/doff,Trait: Tactful/doff",
+  "traits": "Congenial (duty officer trait),  Efficient (duty officer trait),  Eidetic Memory (duty officer trait),  Peaceful (duty officer trait),  Teamwork (duty officer trait),  Tactful (duty officer trait)",
   "rnd": null,
   "powertype": 5,
   "uniquepower": "0",
