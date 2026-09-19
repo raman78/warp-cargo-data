@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-18T09:32:17+00:00",
+ "generated_at": "2026-09-19T09:27:41+00:00",
  "script_errors": 148,
  "files": {
   "boff_abilities.json": {
@@ -2466,11 +2466,11 @@
     "description": {
      "fill": 0.8416,
      "types": {
-      "text": 0.744,
+      "text": 0.7311,
       "empty": 0.1584,
-      "wikitext": 0.0976
+      "wikitext": 0.1105
      },
-     "cardinality": 422
+     "cardinality": 429
     },
     "doff variant": {
      "fill": 0.0018,
@@ -2614,22 +2614,22 @@
      ]
     },
     "short description": {
-     "fill": 0.081,
+     "fill": 0.1289,
      "types": {
-      "empty": 0.919,
-      "text": 0.0773,
+      "empty": 0.8711,
+      "text": 0.1252,
       "wikitext": 0.0037
      },
-     "cardinality": 41
+     "cardinality": 67
     },
     "source": {
-     "fill": 0.105,
+     "fill": 0.1529,
      "types": {
-      "empty": 0.895,
-      "wikitext": 0.0866,
+      "empty": 0.8471,
+      "wikitext": 0.1344,
       "text": 0.0184
      },
-     "cardinality": 42
+     "cardinality": 52
     },
     "type": {
      "fill": 1.0,
